@@ -1190,7 +1190,7 @@
    [146]
     0 TableEntryData data
      0 SInt64 m_Id = 2817839115
-     1 string m_Localized = "It looks kind of amazing!"
+     1 string m_Localized = "It sounds amazing!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1198,7 +1198,7 @@
    [147]
     0 TableEntryData data
      0 SInt64 m_Id = 2817839116
-     1 string m_Localized = "Yeah, yeah, I know what you mean!"
+     1 string m_Localized = "Yup, yup, I get it too!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
