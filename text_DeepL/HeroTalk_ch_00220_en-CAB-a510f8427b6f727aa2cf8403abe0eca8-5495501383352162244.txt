@@ -1190,7 +1190,7 @@
    [146]
     0 TableEntryData data
      0 SInt64 m_Id = 4004827143
-     1 string m_Localized = "Begoma is such a nostalgic game!"
+     1 string m_Localized = "Beigoma?? That brings back memories!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1198,7 +1198,7 @@
    [147]
     0 TableEntryData data
      0 SInt64 m_Id = 4004827144
-     1 string m_Localized = "Let's get on with it!"
+     1 string m_Localized = "Let's get it on!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
