@@ -1190,7 +1190,7 @@
    [146]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691685
-     1 string m_Localized = "What is it?"
+     1 string m_Localized = "What's all this?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1198,7 +1198,7 @@
    [147]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691686
-     1 string m_Localized = "What is it? I have no idea."
+     1 string m_Localized = "You understood that, Nowa? I'm don't get it at all."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
