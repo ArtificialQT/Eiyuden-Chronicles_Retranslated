@@ -1190,7 +1190,7 @@
    [146]
     0 TableEntryData data
      0 SInt64 m_Id = 3728003087
-     1 string m_Localized = "Oh, well, you're playing very old-fashioned ...... games."
+     1 string m_Localized = "Well, well, this takes me back..."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1198,7 +1198,7 @@
    [147]
     0 TableEntryData data
      0 SInt64 m_Id = 3728003088
-     1 string m_Localized = "You got it from just that one?"
+     1 string m_Localized = "Did you really figure it all out from just that??"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
