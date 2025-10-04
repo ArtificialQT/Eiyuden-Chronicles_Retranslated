@@ -1478,7 +1478,7 @@
    [182]
     0 TableEntryData data
      0 SInt64 m_Id = 2822033442
-     1 string m_Localized = "The desert lands are just east of here, over the Shandar Ridge."
+     1 string m_Localized = "The desert lands are just east of here, beyond Shandar Ridge."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1486,7 +1486,7 @@
    [183]
     0 TableEntryData data
      0 SInt64 m_Id = 2822033443
-     1 string m_Localized = "When you're ready, it's best to head that way."
+     1 string m_Localized = "We can head that way whenever you're ready."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
