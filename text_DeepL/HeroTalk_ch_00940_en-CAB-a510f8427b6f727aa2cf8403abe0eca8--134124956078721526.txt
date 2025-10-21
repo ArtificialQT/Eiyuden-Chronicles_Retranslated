@@ -534,7 +534,7 @@
    [64]
     0 TableEntryData data
      0 SInt64 m_Id = 3065303074
-     1 string m_Localized = "I wonder what kind of people Sharkman is."
+     1 string m_Localized = "I wonder what kind of people the Sharkman are."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -542,7 +542,7 @@
    [65]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497344
-     1 string m_Localized = "Let's go."
+     1 string m_Localized = "Well then, shall we get going?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -550,7 +550,7 @@
    [66]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497345
-     1 string m_Localized = "We're finally out of here."
+     1 string m_Localized = "Finally crossed over, huh?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -558,7 +558,7 @@
    [67]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497346
-     1 string m_Localized = "It's not easy to go from rocky mountains to desert ......."
+     1 string m_Localized = "It's going to be rough, heading from rocky mountains straight into a desert."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -566,7 +566,7 @@
    [68]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497347
-     1 string m_Localized = "Is there a port here?"
+     1 string m_Localized = "There's a harbour? <i>Here</i>??"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
