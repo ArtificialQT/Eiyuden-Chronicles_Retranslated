@@ -534,7 +534,7 @@
    [64]
     0 TableEntryData data
      0 SInt64 m_Id = 3992244237
-     1 string m_Localized = "Sharkman...... What kind of guts do they have......?"
+     1 string m_Localized = "Sharkmen... Wonder how gutsy they are."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -542,7 +542,7 @@
    [65]
     0 TableEntryData data
      0 SInt64 m_Id = 3992244238
-     1 string m_Localized = "All right, let's go!"
+     1 string m_Localized = "ALRIGHT! LET'S GO!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -550,7 +550,7 @@
    [66]
     0 TableEntryData data
      0 SInt64 m_Id = 3992244239
-     1 string m_Localized = "Huh...... finally crossed......"
+     1 string m_Localized = "*Wheeze*... Finally... We're through..."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -558,7 +558,7 @@
    [67]
     0 TableEntryData data
      0 SInt64 m_Id = 3992244240
-     1 string m_Localized = "Now...... desert...... says......"
+     1 string m_Localized = "And now... a desert...??"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -566,7 +566,7 @@
    [68]
     0 TableEntryData data
      0 SInt64 m_Id = 3992244241
-     1 string m_Localized = "A port in the middle of the desert like this? \nDon't even get me started on the lies!"
+     1 string m_Localized = "A harbour in the middle of this desert?\nCut the crap already!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
