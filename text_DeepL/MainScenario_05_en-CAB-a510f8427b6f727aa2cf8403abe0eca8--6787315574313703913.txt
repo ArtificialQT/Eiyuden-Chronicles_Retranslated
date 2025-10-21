@@ -1454,7 +1454,7 @@
    [179]
     0 TableEntryData data
      0 SInt64 m_Id = 2822033439
-     1 string m_Localized = "At the end of this mountain road is the city of Darbawin, which is the entrance to the desert. From there, we'll head for the Imperishak."
+     1 string m_Localized = "Beyond this mountain pass lies Darbavin, the gateway to the desert. From there, we can head towards Imperishark"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1462,7 +1462,7 @@
    [180]
     0 TableEntryData data
      0 SInt64 m_Id = 2822033440
-     1 string m_Localized = "What the hell kind of guy is Sharkman?"
+     1 string m_Localized = "I wonder what the Sharkmen are like..."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1470,7 +1470,7 @@
    [181]
     0 TableEntryData data
      0 SInt64 m_Id = 2822033441
-     1 string m_Localized = "Yes, let's go."
+     1 string m_Localized = "Alright, let's go."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1494,7 +1494,7 @@
    [184]
     0 TableEntryData data
      0 SInt64 m_Id = 2822033444
-     1 string m_Localized = "You are the allied forces. General Cassius has contacted us. Please, come through."
+     1 string m_Localized = "You're with the Alliance, right? General Kassius sent word. You're free to pass."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1502,7 +1502,7 @@
    [185]
     0 TableEntryData data
      0 SInt64 m_Id = 2822033445
-     1 string m_Localized = "Alright, let's go-go for the desert lands!"
+     1 string m_Localized = "Right, to the desert! GO, GO!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1510,7 +1510,7 @@
    [186]
     0 TableEntryData data
      0 SInt64 m_Id = 2822033446
-     1 string m_Localized = "It looks like we're finally out of here."
+     1 string m_Localized = "Looks like we're finally out of there."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1526,7 +1526,7 @@
    [188]
     0 TableEntryData data
      0 SInt64 m_Id = 2822033448
-     1 string m_Localized = "And we'll be crossing over from Darbawin to Imperishak, where Sharkman and the others are."
+     1 string m_Localized = "And from here, we'll be passing through Dabavin to Imperishark, where the Sharkmen reside."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1534,7 +1534,7 @@
    [189]
     0 TableEntryData data
      0 SInt64 m_Id = 2822033449
-     1 string m_Localized = "After the rocky mountains, the desert... ...... isn't that too harsh? Is this some kind of punishment?"
+     1 string m_Localized = "First rocky mountains, and now a desert...?!\nIsn't this too much even for a punishment game??"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1542,7 +1542,7 @@
    [190]
     0 TableEntryData data
      0 SInt64 m_Id = 2822033450
-     1 string m_Localized = "We're not walking to the Imperishak."
+     1 string m_Localized = "We won't be walking to Imperishark."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1550,7 +1550,7 @@
    [191]
     0 TableEntryData data
      0 SInt64 m_Id = 2822033451
-     1 string m_Localized = "Then what are we going to do?"
+     1 string m_Localized = "Then, how do we get there?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1558,7 +1558,7 @@
    [192]
     0 TableEntryData data
      0 SInt64 m_Id = 2822033452
-     1 string m_Localized = "Well, you'll have to wait and see."
+     1 string m_Localized = "Heh heh, you'll see."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1566,7 +1566,7 @@
    [193]
     0 TableEntryData data
      0 SInt64 m_Id = 2822033453
-     1 string m_Localized = "So, what are you going to do now?"
+     1 string m_Localized = "So, what do we do now?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1574,7 +1574,7 @@
    [194]
     0 TableEntryData data
      0 SInt64 m_Id = 2826227712
-     1 string m_Localized = "Oh, we're going to the harbor. The east side of the city is the landing place."
+     1 string m_Localized = "Right, now to the harbour. The docks are in the eastern side of town."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1582,7 +1582,7 @@
    [195]
     0 TableEntryData data
      0 SInt64 m_Id = 2826227713
-     1 string m_Localized = "The port?"
+     1 string m_Localized = "Harbour???"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1590,7 +1590,7 @@
    [196]
     0 TableEntryData data
      0 SInt64 m_Id = 2826227714
-     1 string m_Localized = "Yeah, the port."
+     1 string m_Localized = "Yes, the harbour."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1598,7 +1598,7 @@
    [197]
     0 TableEntryData data
      0 SInt64 m_Id = 2826227715
-     1 string m_Localized = "Hey, hey, hey, are you trying to trick us?"
+     1 string m_Localized = "Hey now, are you trying to pull a fast one?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
