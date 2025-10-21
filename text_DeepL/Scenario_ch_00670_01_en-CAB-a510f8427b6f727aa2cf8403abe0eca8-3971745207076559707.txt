@@ -1,0 +1,610 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "Scenario_ch_00670_01_en"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "en"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = 2888468278409322547
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (73 items)
+   0 int size = 73
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3308572672
+     1 string m_Localized = "Mmm-hmmm... this is magnificent!\nOhh, and this one as well. The way the artist captured the captured the spirit of their era via the tones and brushwork... marvelous."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3321155584
+     1 string m_Localized = "Ooh? Do you have an interest in antiques as well? My name is Jorhan. Think of me as a dilettante with a certain fondness for antiques."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3321155585
+     1 string m_Localized = "Now then, what do you think of this line up of vases and paintings?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3321155586
+     1 string m_Localized = "Everything’s so expensive..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3321155587
+     1 string m_Localized = "Yes! Precisely! You've got a good eye, young man!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3321155588
+     1 string m_Localized = "I’m Nowa, by the way."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3321155589
+     1 string m_Localized = "Excuse my rudeness, Lord Nowa. I'm glad to make your acquintance."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3321155590
+     1 string m_Localized = "But, back to the topic at hand.\nThe artworks here are of excellent quality. That, I will concede."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3321155591
+     1 string m_Localized = "But, something is lacking...\nThere's no <i>PASSION</i>! No <i>ELEGANCE</i>!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3321155592
+     1 string m_Localized = "Is... is that so?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3321155593
+     1 string m_Localized = "These works were born into this world, filled with its creator's heartsfelt desires. They're bought up for the fleeting vanity of some nobleman. And then, when they grow bored of them, they're tagged with a price like so..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3321155594
+     1 string m_Localized = "Left on a shelf, to collect dust...\nIs this not a tragedy?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3321155595
+     1 string m_Localized = "Aah, when did the aristocracy lose sight of the spirit of '<i>noblesse oblige</i>'?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3321155596
+     1 string m_Localized = "AAH, how I wish I could behold a <i>true</i> piece of art... one that embodies the soul of its creator!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349888
+     1 string m_Localized = "Hmmm... It's certainly been a while, Lord Gavulet."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349889
+     1 string m_Localized = "Countess Grum?! Aah, it <i>has</i> been while. How have you come to travel with Lord Nowa?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349890
+     1 string m_Localized = "It's a rather long story."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349891
+     1 string m_Localized = "You two know each other?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [18]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349892
+     1 string m_Localized = "Well, I suppose you could say that we're old acquintances."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349893
+     1 string m_Localized = "My house enjoyed a warm relationship with her late father. Why, I’ve known Countess Grum since she was but a little girl."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [20]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349894
+     1 string m_Localized = "Oh, please! Why are we even discussing me right now!?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [21]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349895
+     1 string m_Localized = "You were saying you were seeking out somekind of refined antique, Lord Gavulet...?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [22]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349896
+     1 string m_Localized = "It's my <i>'NOBLESSE OBLIGE'</i>!!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [23]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349897
+     1 string m_Localized = "Yes, my apologies. You're searching for an antique with which to fulfill your 'noblesse oblige', correct?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [24]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349898
+     1 string m_Localized = "Precisely."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [25]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349899
+     1 string m_Localized = "Come to think of it, Janquis told me a story once..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [26]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349900
+     1 string m_Localized = "It's said that there’s a monster called the scarab that hoards rare antiquities. It lives near the eastern desert."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [27]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349901
+     1 string m_Localized = "An antique like that, with a story and a shadowy past, would surely meet your approval, yes?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [28]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349902
+     1 string m_Localized = "Scarab, near the eastern desert, got it. Should we go take a look?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [29]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349903
+     1 string m_Localized = "Why not? It would be our '<i>noblesse oblige</i>."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [30]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349904
+     1 string m_Localized = "To use one's wealth and knowledge not for selfish indulgences, but in service of those in need."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [31]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349905
+     1 string m_Localized = "With that being said, would you please wait a little, Lord Gavulet?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [32]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349906
+     1 string m_Localized = "Of course! I eagerly await your return, both of you!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [33]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349907
+     1 string m_Localized = "I don’t know anything about this '<i>noblesse oblige</i>', but I could try to look around for some antiques."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [34]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349908
+     1 string m_Localized = "Aah, my thanks, Lord Nowa. I eagerly await your return."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [35]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349909
+     1 string m_Localized = "How do you fare, Lord Nowa? Have you come across anything novel?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [36]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349910
+     1 string m_Localized = "Not yet. I'm still looking..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [37]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349911
+     1 string m_Localized = "My wish is to behold a piece of art embodies the soul. I eagerly await your return, Lord Nowa."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [38]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349912
+     1 string m_Localized = "A work that could stir my very heart... I have yet to find such an art piece."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [39]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349913
+     1 string m_Localized = "Heh, Countess Grum, there was a woman who had a discerning eye for artistic beauty... I haven’t seen her in so long."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [40]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349914
+     1 string m_Localized = "A work that could stir my very heart... I have yet to find such an art piece."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [41]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349915
+     1 string m_Localized = "I believe Countess Grum described a scarab monster... near the eastern desert..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [42]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349916
+     1 string m_Localized = "I'm relying on you, Lord Nowa."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [43]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349917
+     1 string m_Localized = "Perrielle, do you happen to know what makes an antique embody '<i>noblesse oblige</i>'?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [44]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349918
+     1 string m_Localized = "What's with you all of a sudden, Nowa? Is something troubling you?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [45]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349919
+     1 string m_Localized = "The thing is..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [46]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349920
+     1 string m_Localized = "I see. What a curious fellow.\nA noble who still holds to such ideals is quite a rarity these days. Very well."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [47]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349921
+     1 string m_Localized = "Janquis!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [48]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349922
+     1 string m_Localized = "Yes, milady."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [49]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3325349923
+     1 string m_Localized = "We need to find an antique. Something that could be displayed and presented to anyone without shame.\nDo you happen to know of one?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [50]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544192
+     1 string m_Localized = "In that case, might I recommend a yellow rose censer? It's said to be a rare drop from a scarab."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [51]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544193
+     1 string m_Localized = "Aah, yes, a rarity like that would be perfect. I believe my father had one in his collection as well."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [52]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544194
+     1 string m_Localized = "Umm, where exactly does that monster appear?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [53]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544195
+     1 string m_Localized = "Yes, if I recall correctly, scarabs can be found near the eastern desert."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [54]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544196
+     1 string m_Localized = "Got it, I’ll check it out! Thanks for the help, Perrielle!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [55]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544197
+     1 string m_Localized = "Oh, but didn't you say it first?\n'<i>Noblesse oblige</i>'; the duty of the noble."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [56]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544198
+     1 string m_Localized = "It means to use one's wealth and knowledge not for selfish indulgences, but in service of those in need."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [57]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544199
+     1 string m_Localized = "Lord Nowa, how do you fare? Have you chanced upon something novel?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [58]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544200
+     1 string m_Localized = "How about this piece?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [59]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544201
+     1 string m_Localized = "Th-this is...!?\nHow have you come to possess this?!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [60]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544202
+     1 string m_Localized = "I asked a friend for advice about 'noblesse oblige', and she mentioned this item. So I went to find one."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [61]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544203
+     1 string m_Localized = "The artisan who made this censer must've spent their whole life perfecting their craft. To the point where they denied themselves the intimacy of company, to pour their heart and soul into their work..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [62]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544204
+     1 string m_Localized = "And now, it is as if this censer carries a piece of that artisan's very soul!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [63]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544205
+     1 string m_Localized = "Umm... sooo, does that mean I passed the test?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [64]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544206
+     1 string m_Localized = "... Come to think of it, her late father had one of these in his collection."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [65]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544207
+     1 string m_Localized = "Huh?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [66]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544208
+     1 string m_Localized = "Oh, forgive me. I was just reminiscing aloud.\nLet us return to the topic at hand."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [67]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544209
+     1 string m_Localized = "Regarding the antique, of course you passed! You are blessed with fine companions."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [68]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544210
+     1 string m_Localized = "But, that being said...\nI see the young Lady seems to be involved in your journey."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [69]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544211
+     1 string m_Localized = "And the yellow rose... So very apt."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [70]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544212
+     1 string m_Localized = "Very well, I suppose it's time I ceased conceiling my identity.\nI am <i>Jorhan Gavulet</i>, Lord of a sovereign state, and the embodiment of '<i>NOBLESSE OBLIGE</i>'!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [71]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544213
+     1 string m_Localized = "I shall walk besside you, on your journey."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [72]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544214
+     1 string m_Localized = "Now then, Lord Nowa, I shall await you at your castle!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0
