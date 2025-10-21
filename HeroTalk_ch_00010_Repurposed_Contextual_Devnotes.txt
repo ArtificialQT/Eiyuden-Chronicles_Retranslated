@@ -534,7 +534,7 @@
    [64]
     0 TableEntryData data
      0 SInt64 m_Id = 3958689799
-     1 string m_Localized = ""
+     1 string m_Localized = "MS05, line [180]. Party has just arrived at the mountain pass heading towards Dabavin and Imperishark. Barnard explains this to the party. Speaker replies with "What are Sharkmen like?", "What is Imperishark like?", or "Alright, let's go!"."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -542,7 +542,7 @@
    [65]
     0 TableEntryData data
      0 SInt64 m_Id = 3958689800
-     1 string m_Localized = ""
+     1 string m_Localized = "MS05, line [185]. As above. Party takes a few steps forward and talks to a Guard, who informs them that General Kassius has sent word and that they're free to pass. Speaker responds with "Alright, let's go!" "Let's do our best!", etc."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -550,7 +550,7 @@
    [66]
     0 TableEntryData data
      0 SInt64 m_Id = 3958689801
-     1 string m_Localized = ""
+     1 string m_Localized = "MS05, line [186]. As map as above. The party has just made it through Shandar Ridge, which includes a boss fight. Speaker say, "We finally made it", "We're finally through", "That was tough, huh?", etc."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -558,7 +558,7 @@
    [67]
     0 TableEntryData data
      0 SInt64 m_Id = 3958689802
-     1 string m_Localized = ""
+     1 string m_Localized = "MS05, line [189]. Same convo as above. Barnard just repeated that they'll passing through Dabavin on their way to the desert lands of Imperishark, where the Sharkmen are. Speaker responds with some variation of repearing "First rocky mountains, and then the desert", either with tired despair, firm declaration, or whatever is appropriate for their character."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -566,7 +566,7 @@
    [68]
     0 TableEntryData data
      0 SInt64 m_Id = 3958689803
-     1 string m_Localized = ""
+     1 string m_Localized = "MS05, line [197]. The party has just arrived at the "Harbour" town of Dabavin, surrounded by desert. Nowa asks what to do next. Barnard says that they now need to go to Dabavin's harbour. Speaker responds with disbelief, "Are you trying to trick us?", "This town has a harbour??", etc, regarding the strangeness of the fact that a town surrounded by desert has a "harbour"."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
