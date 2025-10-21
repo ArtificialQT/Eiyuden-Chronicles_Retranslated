@@ -534,7 +534,7 @@
    [64]
     0 TableEntryData data
      0 SInt64 m_Id = 2809450511
-     1 string m_Localized = "What kind of people are Shakman?"
+     1 string m_Localized = "I wonder what the Sharkmen are like."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -542,7 +542,7 @@
    [65]
     0 TableEntryData data
      0 SInt64 m_Id = 2809450512
-     1 string m_Localized = "All right, let's go-go for the desert land!"
+     1 string m_Localized = "Right, to the desert! GO, GO!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -550,7 +550,7 @@
    [66]
     0 TableEntryData data
      0 SInt64 m_Id = 2809450513
-     1 string m_Localized = "That was tough"
+     1 string m_Localized = "That was tough, huh?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -558,7 +558,7 @@
    [67]
     0 TableEntryData data
      0 SInt64 m_Id = 2809450514
-     1 string m_Localized = "After the rocky mountains, now the desert? \nIt's getting kind of exciting!"
+     1 string m_Localized = "First rocky mountains, and now a desert?\nI'm so excited!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -566,7 +566,7 @@
    [68]
     0 TableEntryData data
      0 SInt64 m_Id = 2809450515
-     1 string m_Localized = "What? Isn't a port in the ocean?"
+     1 string m_Localized = "Huh? Aren't harbours supposed to be by the sea?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
