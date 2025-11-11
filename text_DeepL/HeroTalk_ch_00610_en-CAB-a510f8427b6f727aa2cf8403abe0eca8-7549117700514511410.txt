@@ -574,7 +574,7 @@
    [69]
     0 TableEntryData data
      0 SInt64 m_Id = 3715420180
-     1 string m_Localized = "Oh, is that a ...... ship?"
+     1 string m_Localized = "Oh? Is that a <i>ship</i>!?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
