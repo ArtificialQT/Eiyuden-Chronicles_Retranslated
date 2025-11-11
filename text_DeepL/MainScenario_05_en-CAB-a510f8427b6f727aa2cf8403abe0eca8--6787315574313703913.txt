@@ -1606,7 +1606,7 @@
    [198]
     0 TableEntryData data
      0 SInt64 m_Id = 2826227716
-     1 string m_Localized = "What? What is that?"
+     1 string m_Localized = "Huh? Is that a...?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1614,7 +1614,7 @@
    [199]
     0 TableEntryData data
      0 SInt64 m_Id = 2826227717
-     1 string m_Localized = "What, what, what, what?"
+     1 string m_Localized = "Wh-what <i>IS</i> that??"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1622,7 +1622,7 @@
    [200]
     0 TableEntryData data
      0 SInt64 m_Id = 2826227718
-     1 string m_Localized = "That's a shark ship. It's a desert ship operated by Sharkmen."
+     1 string m_Localized = "That's a '<i>sharkship</i>'. It's a desertgoing vessel operated by the Sharkmen."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1630,7 +1630,7 @@
    [201]
     0 TableEntryData data
      0 SInt64 m_Id = 2826227719
-     1 string m_Localized = "It goes to the Imperishable Islands, where the Sharkmen live."
+     1 string m_Localized = "It's how we're going to get to Imperishark, where the Sharkmen live."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1638,7 +1638,7 @@
    [202]
     0 TableEntryData data
      0 SInt64 m_Id = 2826227720
-     1 string m_Localized = "That's amazing."
+     1 string m_Localized = "It looks amazing!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1646,7 +1646,7 @@
    [203]
     0 TableEntryData data
      0 SInt64 m_Id = 2826227721
-     1 string m_Localized = "There are all kinds of things in the world. No wonder Leanne wants to go all over the place."
+     1 string m_Localized = "There're all sorts of wondrous stuff in the world. I get why Leene wants to explore so much now."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1654,7 +1654,7 @@
    [204]
     0 TableEntryData data
      0 SInt64 m_Id = 2826227722
-     1 string m_Localized = "Hey, Scarlett. We have a guest, we want to go to Imperishak."
+     1 string m_Localized = "Yo, Scarlet. Got a passenger for you. He's headed for Imperishark."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1662,7 +1662,7 @@
    [205]
     0 TableEntryData data
      0 SInt64 m_Id = 2826227723
-     1 string m_Localized = "Your guest? Noah."
+     1 string m_Localized = "Is <i>that</i> the customer?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1670,7 +1670,7 @@
    [206]
     0 TableEntryData data
      0 SInt64 m_Id = 2826227724
-     1 string m_Localized = "Noah."
+     1 string m_Localized = "I'm Nowa."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1678,7 +1678,7 @@
    [207]
     0 TableEntryData data
      0 SInt64 m_Id = 2826227725
-     1 string m_Localized = "I don't know what you want, but you're right on the money. My ship, Eurofi, is the fastest ship here."
+     1 string m_Localized = "Not sure what business ya got, but yer in luck. My Europhe's the fastest ship around."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1686,7 +1686,7 @@
    [208]
     0 TableEntryData data
      0 SInt64 m_Id = 2826227726
-     1 string m_Localized = "So this is the ...... ship."
+     1 string m_Localized = "So, this <i>is</i> a ship, huh?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1694,7 +1694,7 @@
    [209]
     0 TableEntryData data
      0 SInt64 m_Id = 2826227727
-     1 string m_Localized = "? Of course it is. Where else would a ship run but in the desert?"
+     1 string m_Localized = "??\nOf course! Where else would a ship sail besides the desert?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1702,7 +1702,7 @@
    [210]
     0 TableEntryData data
      0 SInt64 m_Id = 2826227728
-     1 string m_Localized = "We Sharkmen were born and raised in the desert. We Sharkmen were born and raised in the desert, and the symbol of our honor is this Sharkship. A ship that runs faster than the wind."
+     1 string m_Localized = "We Sharkmen are born and raised in the desert. These Sharkships are a symbol of our <i>glory</i>. They sail across the dunes faster than the wind."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1710,7 +1710,7 @@
    [211]
     0 TableEntryData data
      0 SInt64 m_Id = 2826227729
-     1 string m_Localized = "Oh, I see. ......"
+     1 string m_Localized = "I-I see..."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1718,7 +1718,7 @@
    [212]
     0 TableEntryData data
      0 SInt64 m_Id = 2826227730
-     1 string m_Localized = "As always, honorable warrior."
+     1 string m_Localized = "Ever the glorious warrior."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1726,7 +1726,7 @@
    [213]
     0 TableEntryData data
      0 SInt64 m_Id = 2826227731
-     1 string m_Localized = "You desert people live by honor as we live by faith. That's what I'm talking about."
+     1 string m_Localized = "You desert men live for <i>loyalty</i>, we live for <i>glory</i>.\nThat's just how it is."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1734,7 +1734,7 @@
    [214]
     0 TableEntryData data
      0 SInt64 m_Id = 2826227732
-     1 string m_Localized = "Now, shall we head for the Imperishak right away?"
+     1 string m_Localized = "Now, shall we depart for Imperishark immediately?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1750,7 +1750,7 @@
    [216]
     0 TableEntryData data
      0 SInt64 m_Id = 2826227734
-     1 string m_Localized = "I'd like to see the city a little bit."
+     1 string m_Localized = "I'd like to look around town for a bit."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1758,7 +1758,7 @@
    [217]
     0 TableEntryData data
      0 SInt64 m_Id = 2826227735
-     1 string m_Localized = "I'd like to see the city a little bit."
+     1 string m_Localized = "I'd like to look around town for a bit."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1766,7 +1766,7 @@
    [218]
     0 TableEntryData data
      0 SInt64 m_Id = 2826227736
-     1 string m_Localized = "Well, if you're up for it, talk to me. I'll carry you faster than the wind."
+     1 string m_Localized = "Aite. When yer ready just give me the word. I'll ferry you faster than the wind."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
