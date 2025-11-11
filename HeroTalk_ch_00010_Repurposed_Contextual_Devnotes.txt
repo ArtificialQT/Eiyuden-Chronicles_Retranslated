@@ -574,7 +574,7 @@
    [69]
     0 TableEntryData data
      0 SInt64 m_Id = 3958689804
-     1 string m_Localized = ""
+     1 string m_Localized = "MS05, line [199]. Following from above. The party proceeds to the docks and sees a ship. Nowa expresses confusion/incredulousness. Speaker responds with similar confusion/incredulousness, "What??" "Is that a ship??", etc."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
