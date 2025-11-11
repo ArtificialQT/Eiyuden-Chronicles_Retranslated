@@ -574,7 +574,7 @@
    [69]
     0 TableEntryData data
      0 SInt64 m_Id = 2968834067
-     1 string m_Localized = "What?　What is that?"
+     1 string m_Localized = "Huhhh? What's that??"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
