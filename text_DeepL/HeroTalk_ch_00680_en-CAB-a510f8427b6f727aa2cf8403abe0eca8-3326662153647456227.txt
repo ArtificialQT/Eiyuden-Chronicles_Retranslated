@@ -582,7 +582,7 @@
    [70]
     0 TableEntryData data
      0 SInt64 m_Id = 2910113795
-     1 string m_Localized = "What the hell is that? - Let's go."
+     1 string m_Localized = "Well, let's go then."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -590,7 +590,7 @@
    [71]
     0 TableEntryData data
      0 SInt64 m_Id = 2910113796
-     1 string m_Localized = "That's fast. ......!"
+     1 string m_Localized = "Aren't we going rather fast...?!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -598,7 +598,7 @@
    [72]
     0 TableEntryData data
      0 SInt64 m_Id = 2910113797
-     1 string m_Localized = "Quickly, ......!"
+     1 string m_Localized = "Aren't we going rather fast...?!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -606,7 +606,7 @@
    [73]
     0 TableEntryData data
      0 SInt64 m_Id = 2910113798
-     1 string m_Localized = "Ugh, ......, I'm not afraid of you!"
+     1 string m_Localized = "Ugh... I-I'm not scared...!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
