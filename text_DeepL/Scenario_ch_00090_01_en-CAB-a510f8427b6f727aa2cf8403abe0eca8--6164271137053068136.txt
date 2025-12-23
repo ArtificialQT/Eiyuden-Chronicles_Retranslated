@@ -1,0 +1,226 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "Scenario_ch_00090_01_en"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "en"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = 6374375597826153608
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (25 items)
+   0 int size = 25
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4550086656
+     1 string m_Localized = "Yo. Appraiser here. Got something you want appraised?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669568
+     1 string m_Localized = "Could you appraise this, please?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669569
+     1 string m_Localized = "Would you be interested in joining us?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669570
+     1 string m_Localized = "Could you appraise this, please?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669571
+     1 string m_Localized = "Right, leave it to me.\nLet me see it."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669572
+     1 string m_Localized = "Come again."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669573
+     1 string m_Localized = "Would you be interested in joining us?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669574
+     1 string m_Localized = "Huh? You're recruiting people?\nHmmm, I'm not sure..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669575
+     1 string m_Localized = "Tell you what. If you bring me a pearl pocket watch, then I guess I wouldn't mind joining up with y-...<autosubmit=0.5>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669576
+     1 string m_Localized = "Huh? That... that's it! \nThat thing in your hand is a pearl pocket watch!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669577
+     1 string m_Localized = "Aaaah, just look at this luster. I bet I could do this too if I just tried a little harder...\nUhh, nevermind. Excuse me. It's a fine piece."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669578
+     1 string m_Localized = "Alright, it's a deal. Give me the watch, and I'm in."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669579
+     1 string m_Localized = "Oh, that’s right. You were asking if I’d join up with you.\nDid you bring me the pearl pocket watch?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669580
+     1 string m_Localized = "Ooooh! Isn't it amazing?!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669581
+     1 string m_Localized = "Aaaah, just look at this luster. I bet I could do this too if I just tried a little harder...\nUhh, nevermind. Excuse me. It's a fine piece."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669582
+     1 string m_Localized = "Alright, it's a deal. Give me the watch, and I'm in."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669583
+     1 string m_Localized = "Yesss! I can’t wait to crack this open and learn what makes it tick—"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669584
+     1 string m_Localized = "Uhh... excuse me, sorry. I’m Rody. As you can see, I'm an appraiser."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [18]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669585
+     1 string m_Localized = "If you got anything you need appraised, bring it to me. But I'd especially love it if you brought me watches."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669586
+     1 string m_Localized = "Watches are the world's greatest works of art. And one day, I’ll create the ultimate timepiece with my own hands!\nIn any case, I'm looking forward to working with you."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [20]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669587
+     1 string m_Localized = "What the...? You don't wanna recruit me anymore?\nWell, let me know if you change your mind."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [21]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669588
+     1 string m_Localized = "You again? Have you finally decided to recruit me?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [22]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669589
+     1 string m_Localized = "Tell you what. If you bring me a pearl pocket watch, then I guess I wouldn't mind joining up with you."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [23]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669590
+     1 string m_Localized = "I've heard it's of incredible craftsmanship, so I would really like to see one for myself."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [24]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4562669591
+     1 string m_Localized = "Looking forward to seeing it."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0

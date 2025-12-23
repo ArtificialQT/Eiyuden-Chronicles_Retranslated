@@ -534,7 +534,7 @@
    [64]
     0 TableEntryData data
      0 SInt64 m_Id = 3715420175
-     1 string m_Localized = "What kind of place is the Imperishak?"
+     1 string m_Localized = "I wonder what Imperishark is like..."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -542,7 +542,7 @@
    [65]
     0 TableEntryData data
      0 SInt64 m_Id = 3715420176
-     1 string m_Localized = "Okay, let's go!"
+     1 string m_Localized = "Right, let's go!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -550,7 +550,7 @@
    [66]
     0 TableEntryData data
      0 SInt64 m_Id = 3715420177
-     1 string m_Localized = "Oh no, we're finally over it."
+     1 string m_Localized = "Well well, we finally crossed over."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -558,7 +558,7 @@
    [67]
     0 TableEntryData data
      0 SInt64 m_Id = 3715420178
-     1 string m_Localized = "Now we're in the desert. ......"
+     1 string m_Localized = "Next it's a desert, huh...?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -566,7 +566,7 @@
    [68]
     0 TableEntryData data
      0 SInt64 m_Id = 3715420179
-     1 string m_Localized = "What kind of port is in a place like that?"
+     1 string m_Localized = "A harbour? In a place like this?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -574,7 +574,7 @@
    [69]
     0 TableEntryData data
      0 SInt64 m_Id = 3715420180
-     1 string m_Localized = "Oh, is that a ...... ship?"
+     1 string m_Localized = "Oh? Is that a <i>ship</i>!?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -582,7 +582,7 @@
    [70]
     0 TableEntryData data
      0 SInt64 m_Id = 3715420181
-     1 string m_Localized = "We're going on this thing!"
+     1 string m_Localized = "We're riding <i>this</i> thing, huh!?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -598,7 +598,7 @@
    [72]
     0 TableEntryData data
      0 SInt64 m_Id = 3715420183
-     1 string m_Localized = ""
+     1 string m_Localized = "This is great!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -606,7 +606,7 @@
    [73]
     0 TableEntryData data
      0 SInt64 m_Id = 3715420184
-     1 string m_Localized = "Ha ha ha, feels good!"
+     1 string m_Localized = "Ha ha ha! This feels good!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1126,7 +1126,7 @@
    [138]
     0 TableEntryData data
      0 SInt64 m_Id = 3728003079
-     1 string m_Localized = "Wait, wait, wait, wait, wait."
+     1 string m_Localized = "Now, hang on a sec!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1190,7 +1190,7 @@
    [146]
     0 TableEntryData data
      0 SInt64 m_Id = 3728003087
-     1 string m_Localized = "Oh, well, you're playing very old-fashioned ...... games."
+     1 string m_Localized = "Well, well, this takes me back..."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1198,7 +1198,7 @@
    [147]
     0 TableEntryData data
      0 SInt64 m_Id = 3728003088
-     1 string m_Localized = "You got it from just that one?"
+     1 string m_Localized = "Did you really figure it all out from just that??"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

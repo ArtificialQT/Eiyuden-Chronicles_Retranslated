@@ -534,7 +534,7 @@
    [64]
     0 TableEntryData data
      0 SInt64 m_Id = 3958689799
-     1 string m_Localized = ""
+     1 string m_Localized = "MS05, line [180]. Party has just arrived at the mountain pass heading towards Dabavin and Imperishark. Barnard explains this to the party. Speaker replies with "What are Sharkmen like?", "What is Imperishark like?", or "Alright, let's go!"."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -542,7 +542,7 @@
    [65]
     0 TableEntryData data
      0 SInt64 m_Id = 3958689800
-     1 string m_Localized = ""
+     1 string m_Localized = "MS05, line [185]. As above. Party takes a few steps forward and talks to a Guard, who informs them that General Kassius has sent word and that they're free to pass. Speaker responds with "Alright, let's go!" "Let's do our best!", etc."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -550,7 +550,7 @@
    [66]
     0 TableEntryData data
      0 SInt64 m_Id = 3958689801
-     1 string m_Localized = ""
+     1 string m_Localized = "MS05, line [186]. As map as above. The party has just made it through Shandar Ridge, which includes a boss fight. Speaker say, "We finally made it", "We're finally through", "That was tough, huh?", etc."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -558,7 +558,7 @@
    [67]
     0 TableEntryData data
      0 SInt64 m_Id = 3958689802
-     1 string m_Localized = ""
+     1 string m_Localized = "MS05, line [189]. Same convo as above. Barnard just repeated that they'll passing through Dabavin on their way to the desert lands of Imperishark, where the Sharkmen are. Speaker responds with some variation of repearing "First rocky mountains, and then the desert", either with tired despair, firm declaration, or whatever is appropriate for their character."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -566,7 +566,7 @@
    [68]
     0 TableEntryData data
      0 SInt64 m_Id = 3958689803
-     1 string m_Localized = ""
+     1 string m_Localized = "MS05, line [197]. The party has just arrived at the "Harbour" town of Dabavin, surrounded by desert. Nowa asks what to do next. Barnard says that they now need to go to Dabavin's harbour. Speaker responds with disbelief, "Are you trying to trick us?", "This town has a harbour??", etc, regarding the strangeness of the fact that a town surrounded by desert has a "harbour"."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -574,7 +574,7 @@
    [69]
     0 TableEntryData data
      0 SInt64 m_Id = 3958689804
-     1 string m_Localized = ""
+     1 string m_Localized = "MS05, line [199]. Following from above. The party proceeds to the docks and sees a ship. Nowa expresses confusion/incredulousness. Speaker responds with similar confusion/incredulousness, "What??" "Is that a ship??", etc."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -582,7 +582,7 @@
    [70]
     0 TableEntryData data
      0 SInt64 m_Id = 3958689805
-     1 string m_Localized = ""
+     1 string m_Localized = "MS05, line [227]. Following from above. Nowa has just told Scarlet that the party is now leaving for Imperishark. Speaker responds with excitement, such as "Alright, let's go!", "We're finally setting off!", "Are we getting on this ship?!", and so on."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -590,7 +590,7 @@
    [71]
     0 TableEntryData data
      0 SInt64 m_Id = 3958689806
-     1 string m_Localized = ""
+     1 string m_Localized = "MS05. line [229]. Following from above. The party is now sailing across the sand dunes on Scarlet's sandship, Europhe. Some speakers shout with excitement, "WOW!", "SO FAST!", "This ship is AMAZING!". But a few speakers are scared, queasy, or getting seasick."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -598,7 +598,7 @@
    [72]
     0 TableEntryData data
      0 SInt64 m_Id = 3958689807
-     1 string m_Localized = ""
+     1 string m_Localized = "Appears to be deprecated and unused because it's empty in some Herotalks. The devnotes simply say to put in lines that are similar to [71] above."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -606,7 +606,7 @@
    [73]
     0 TableEntryData data
      0 SInt64 m_Id = 3958689808
-     1 string m_Localized = ""
+     1 string m_Localized = "MS05, line [241]. Following from [71], Scarlet mentions that the Party appears to be enjoying the ride, so she calls for MORE SPEED. The speaker responds with excitement "WOW! WE'RE GOING EVEN FASTER!!", or more fear, or more sickness."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1194,7 +1194,7 @@
    [146]
     0 TableEntryData data
      0 SInt64 m_Id = 3967078428
-     1 string m_Localized = ""
+     1 string m_Localized = "Begoma_scenario. Line [24]. Dr. Corque has just proclaimed that Nowa will become a new beigoma warrior, be expected to fight many formidable foes, and revea the "truth" of the beigoma. Speaker responds with stunned silence and cold stares, or excitement and interest."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1202,7 +1202,7 @@
    [147]
     0 TableEntryData data
      0 SInt64 m_Id = 3967078429
-     1 string m_Localized = ""
+     1 string m_Localized = "Begoma_scenario. Line [35]. Dr. Corque has just finished explaining how the beigoma are the manifestation of the "human will". Nowa is all in on it and says he understands. The speaker is generally incredulous and comments about how Nowa figured it out, or is also all in on it."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

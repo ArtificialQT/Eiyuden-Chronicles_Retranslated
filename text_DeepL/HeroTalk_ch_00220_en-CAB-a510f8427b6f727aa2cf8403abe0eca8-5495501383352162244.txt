@@ -534,7 +534,7 @@
    [64]
     0 TableEntryData data
      0 SInt64 m_Id = 3992244237
-     1 string m_Localized = "Sharkman...... What kind of guts do they have......?"
+     1 string m_Localized = "Sharkmen... Wonder how gutsy they are."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -542,7 +542,7 @@
    [65]
     0 TableEntryData data
      0 SInt64 m_Id = 3992244238
-     1 string m_Localized = "All right, let's go!"
+     1 string m_Localized = "ALRIGHT! LET'S GO!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -550,7 +550,7 @@
    [66]
     0 TableEntryData data
      0 SInt64 m_Id = 3992244239
-     1 string m_Localized = "Huh...... finally crossed......"
+     1 string m_Localized = "*Wheeze*... Finally... We're through..."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -558,7 +558,7 @@
    [67]
     0 TableEntryData data
      0 SInt64 m_Id = 3992244240
-     1 string m_Localized = "Now...... desert...... says......"
+     1 string m_Localized = "And now... a desert...??"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -566,7 +566,7 @@
    [68]
     0 TableEntryData data
      0 SInt64 m_Id = 3992244241
-     1 string m_Localized = "A port in the middle of the desert like this? \nDon't even get me started on the lies!"
+     1 string m_Localized = "A harbour in the middle of this desert?\nCut the crap already!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -574,7 +574,7 @@
    [69]
     0 TableEntryData data
      0 SInt64 m_Id = 3992244242
-     1 string m_Localized = "What? \nWhat the hell is that?"
+     1 string m_Localized = "The <i>hell</i> is that?!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -582,7 +582,7 @@
    [70]
     0 TableEntryData data
      0 SInt64 m_Id = 3992244243
-     1 string m_Localized = "You're going to get on this!"
+     1 string m_Localized = "Are we really gonna ride there on <i>THIS</i>?!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -590,7 +590,7 @@
    [71]
     0 TableEntryData data
      0 SInt64 m_Id = 3992244244
-     1 string m_Localized = "Wooooo! Huh!"
+     1 string m_Localized = "WOOOO! SPEEEEED!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -598,7 +598,7 @@
    [72]
     0 TableEntryData data
      0 SInt64 m_Id = 3992244245
-     1 string m_Localized = ""
+     1 string m_Localized = "WOOOO! SPEEEEED!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -606,7 +606,7 @@
    [73]
     0 TableEntryData data
      0 SInt64 m_Id = 3992244246
-     1 string m_Localized = "It's getting faster again!"
+     1 string m_Localized = "It's going <i>EVEN FASTER</i>!?!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1126,7 +1126,7 @@
    [138]
     0 TableEntryData data
      0 SInt64 m_Id = 4000632860
-     1 string m_Localized = "Oh, hey!"
+     1 string m_Localized = "H-hey!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1142,7 +1142,7 @@
    [140]
     0 TableEntryData data
      0 SInt64 m_Id = 4004827137
-     1 string m_Localized = "Let's find it!"
+     1 string m_Localized = "Let's get to it!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1190,7 +1190,7 @@
    [146]
     0 TableEntryData data
      0 SInt64 m_Id = 4004827143
-     1 string m_Localized = "Begoma is such a nostalgic game!"
+     1 string m_Localized = "Beigoma?? That brings back memories!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1198,7 +1198,7 @@
    [147]
     0 TableEntryData data
      0 SInt64 m_Id = 4004827144
-     1 string m_Localized = "Let's get on with it!"
+     1 string m_Localized = "Let's get it on!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

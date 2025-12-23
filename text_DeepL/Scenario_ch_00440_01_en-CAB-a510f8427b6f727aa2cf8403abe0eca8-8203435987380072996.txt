@@ -1,0 +1,506 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "Scenario_ch_00440_01_en"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "en"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = 3135920687469317424
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (60 items)
+   0 int size = 60
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3254046720
+     1 string m_Localized = "Yes? What's up? Are you into <i>eggfoots</i> too?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3266629632
+     1 string m_Localized = "I'm interested."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3266629633
+     1 string m_Localized = "Not interested."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3266629634
+     1 string m_Localized = "Yeah, I'm interested."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3266629635
+     1 string m_Localized = "I know, right?! They're just so <i>soft</i> and <i>fluffy</i> and <i>adorable</i>!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3266629636
+     1 string m_Localized = "Here, here. Wanna pet him?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3266629637
+     1 string m_Localized = "You’re right. He's so soft and fluffy and cute. He's very friendly too."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3266629638
+     1 string m_Localized = "Yeah, that's what makes these lil guys so <i>adorable</i>.\nThey have other good qualities too! Like, this guy is an amazing runner, for example."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3266629639
+     1 string m_Localized = "Sorry, I'm not really interested."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3266629640
+     1 string m_Localized = "Awww, come on! You'll understand how cute these lil guys are once you've pet one!\nHere, look how soft and fluffy he is!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3266629641
+     1 string m_Localized = "I guess he does look soft..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3266629642
+     1 string m_Localized = "You're right. He's cute. And he's very friendly too."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3266629643
+     1 string m_Localized = "Eh heh heh, told ya. These lil guys make the best companions."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3266629644
+     1 string m_Localized = "Actually, I’m looking for comrades to join the Alliance. I'm not only looking for warriors, but also for anyone who could help nurture and grow our town."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3266629645
+     1 string m_Localized = "Huh?!? In that case, how does an <i>eggfoot race track</i> sound? That's a good idea, right?! Right?!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3266629646
+     1 string m_Localized = "Aah, but... we can't hold a proper race without a whole bunch of eggfoots..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3266629647
+     1 string m_Localized = "What should I do?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3266629648
+     1 string m_Localized = "That's right. First things first, please bring me 5 eggfoot eggs."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [18]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3266629649
+     1 string m_Localized = "Standard grade eggs are fine. We just need 5 'regular eggs'."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3266629650
+     1 string m_Localized = "That's right. First things first, please bring me 10 eggfoot eggs."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [20]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3266629651
+     1 string m_Localized = "Standard grade eggs are fine. We just need 10 'regular eggs'."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [21]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3266629652
+     1 string m_Localized = "That's right. First things first, please bring me 15 eggfoot eggs."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [22]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3266629653
+     1 string m_Localized = "Standard grade eggs are fine. We just need 15 'regular eggs'."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [23]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3266629654
+     1 string m_Localized = "That's right. Please bring me as many eggfoot eggs as you can."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [24]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823936
+     1 string m_Localized = "Standard grade eggs are fine. We just need a whole bunch of 'regular eggs'."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [25]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823937
+     1 string m_Localized = "Um, about that..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [26]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823938
+     1 string m_Localized = "Wow, amazing! With these, we can now open a race track!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [27]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823939
+     1 string m_Localized = "You know, it's been a dream of mine to be able to open an eggfoot race track."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [28]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823940
+     1 string m_Localized = "Eggfoots! Attendees! Everyone enjoying themselves at the race track of my dreams!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [29]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823941
+     1 string m_Localized = "To be able to build a race track like that... I'm just so unbelievably happy!\nI'm Paquia. I'm looking forward to working with you!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [30]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823942
+     1 string m_Localized = "<i>OH!</i> THE EGGFOOT EGGS HAVE JUST BEEN PASSED FROM NOWA'S HANDS INTO PAKIYA'S HANDS!\nThis looks like the beginning of a new friendship!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [31]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823943
+     1 string m_Localized = "Nay, this is the birth of a new <i>LEGEND</i>! History will say that Eggfoot racing has taken a <i>GREAT LEAP FORWARD</i> this day!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [32]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823944
+     1 string m_Localized = "???"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [33]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823945
+     1 string m_Localized = "Mandie!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [34]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823946
+     1 string m_Localized = "Oops! Excuse me, I've neglected to introduce myself. I'm the Eggfoot race commentator, Mandie!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [35]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823947
+     1 string m_Localized = "Upon seeing this <i>historic meeting</i> between Pakiya and Nowa, and the <i>great leap forward</i> that Eggfoot racing has taken, I simply couldn't help but give live commentary!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [36]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823948
+     1 string m_Localized = "Mandie's an <i>amazing</i> commentator!\nIf Mandie's around, the races are sure to be exciting."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [37]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823949
+     1 string m_Localized = "I would be honoured to lend a hand; building up this Eggfoot race track!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [38]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823950
+     1 string m_Localized = "Building a race track has been a long-held dream of Paquia and myself, you see!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [39]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823951
+     1 string m_Localized = "Sure! Let's work on this together."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [40]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823952
+     1 string m_Localized = "AND HEREEEE COMES THE <i>FIRM HANDSHAKE</i>!!\nI, Mandy, hereby declare that I have become Nowa's comrade!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [41]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823953
+     1 string m_Localized = "Now then, shall we head to your town?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [42]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823954
+     1 string m_Localized = "And a new journey has begun. Athlete Paquia has just taken her first steps towards a brand new frontier."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [43]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823955
+     1 string m_Localized = "All right, understood."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [44]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823956
+     1 string m_Localized = "Yes, please do."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [45]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823957
+     1 string m_Localized = "I’m definitely gonna raise some great eggfoots and hold some amazing races! You'll see!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [46]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823958
+     1 string m_Localized = "Just need a few more, we need 5 eggfoot eggs. Please bring me 5 standard grade, 'regular eggs'."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [47]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823959
+     1 string m_Localized = "Just need a few more, we need 10 eggfoot eggs. Please bring me 10 standard grade, 'regular eggs'."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [48]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823960
+     1 string m_Localized = "Just need a few more, we need 15 eggfoot eggs. Please bring me 15 standard grade, 'regular eggs'."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [49]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823961
+     1 string m_Localized = "Just need a few more, please, if you're willing. Please bring me more standard grade, 'regular eggs'."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [50]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823962
+     1 string m_Localized = "Have you collected enough eggfoot eggs?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [51]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823963
+     1 string m_Localized = "Yup, what's next?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [52]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823964
+     1 string m_Localized = ""
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [53]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823965
+     1 string m_Localized = ""
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [54]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823966
+     1 string m_Localized = ""
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [55]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823967
+     1 string m_Localized = ""
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [56]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823968
+     1 string m_Localized = ""
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [57]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823969
+     1 string m_Localized = ""
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [58]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823970
+     1 string m_Localized = ""
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [59]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3270823971
+     1 string m_Localized = ""
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0
