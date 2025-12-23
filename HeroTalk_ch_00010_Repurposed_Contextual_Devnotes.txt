@@ -582,7 +582,7 @@
    [70]
     0 TableEntryData data
      0 SInt64 m_Id = 3958689805
-     1 string m_Localized = ""
+     1 string m_Localized = "MS05, line [227]. Following from above. Nowa has just told Scarlet that the party is now leaving for Imperishark. Speaker responds with excitement, such as "Alright, let's go!", "We're finally setting off!", "Are we getting on this ship?!", and so on."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -590,7 +590,7 @@
    [71]
     0 TableEntryData data
      0 SInt64 m_Id = 3958689806
-     1 string m_Localized = ""
+     1 string m_Localized = "MS05. line [229]. Following from above. The party is now sailing across the sand dunes on Scarlet's sandship, Europhe. Some speakers shout with excitement, "WOW!", "SO FAST!", "This ship is AMAZING!". But a few speakers are scared, queasy, or getting seasick."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -598,7 +598,7 @@
    [72]
     0 TableEntryData data
      0 SInt64 m_Id = 3958689807
-     1 string m_Localized = ""
+     1 string m_Localized = "Appears to be deprecated and unused because it's empty in some Herotalks. The devnotes simply say to put in lines that are similar to [71] above."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -606,7 +606,7 @@
    [73]
     0 TableEntryData data
      0 SInt64 m_Id = 3958689808
-     1 string m_Localized = ""
+     1 string m_Localized = "MS05, line [241]. Following from [71], Scarlet mentions that the Party appears to be enjoying the ride, so she calls for MORE SPEED. The speaker responds with excitement "WOW! WE'RE GOING EVEN FASTER!!", or more fear, or more sickness."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
