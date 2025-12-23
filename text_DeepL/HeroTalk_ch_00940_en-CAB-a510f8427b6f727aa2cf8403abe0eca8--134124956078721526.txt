@@ -590,7 +590,7 @@
    [71]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497350
-     1 string m_Localized = "This ship is fast!"
+     1 string m_Localized = "This ship sure is fast!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -598,7 +598,7 @@
    [72]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497351
-     1 string m_Localized = ""
+     1 string m_Localized = "This ship sure is fast!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -606,7 +606,7 @@
    [73]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497352
-     1 string m_Localized = ""
+     1 string m_Localized = "It's... It's really flying now, huh?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
