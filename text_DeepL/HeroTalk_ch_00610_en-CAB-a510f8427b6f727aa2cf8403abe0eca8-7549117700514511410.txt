@@ -582,7 +582,7 @@
    [70]
     0 TableEntryData data
      0 SInt64 m_Id = 3715420181
-     1 string m_Localized = "We're going on this thing!"
+     1 string m_Localized = "We're riding <i>this</i> thing, huh!?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -598,7 +598,7 @@
    [72]
     0 TableEntryData data
      0 SInt64 m_Id = 3715420183
-     1 string m_Localized = ""
+     1 string m_Localized = "This is great!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -606,7 +606,7 @@
    [73]
     0 TableEntryData data
      0 SInt64 m_Id = 3715420184
-     1 string m_Localized = "Ha ha ha, feels good!"
+     1 string m_Localized = "Ha ha ha! This feels good!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
