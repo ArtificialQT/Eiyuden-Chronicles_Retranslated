@@ -1846,7 +1846,7 @@
    [228]
     0 TableEntryData data
      0 SInt64 m_Id = 3526676483
-     1 string m_Localized = "Is this the monster Quinn was talking about?"
+     1 string m_Localized = "Is this the monster you were talking about, Quinn?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1854,7 +1854,7 @@
    [229]
     0 TableEntryData data
      0 SInt64 m_Id = 3526676484
-     1 string m_Localized = "Is this the monster Quinn was talking about? It looks kind of weak, but whatever. Let's just get rid of it."
+     1 string m_Localized = "Hmmm, maybe? Seems kinda weak, but whatever. Let's get this over with."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1862,7 +1862,7 @@
    [230]
     0 TableEntryData data
      0 SInt64 m_Id = 3526676485
-     1 string m_Localized = "Oh, it got away!"
+     1 string m_Localized = "AH! It got away!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1870,7 +1870,7 @@
    [231]
     0 TableEntryData data
      0 SInt64 m_Id = 3526676486
-     1 string m_Localized = "Okay, let's go after it!"
+     1 string m_Localized = "After it!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1886,7 +1886,7 @@
    [233]
     0 TableEntryData data
      0 SInt64 m_Id = 3526676488
-     1 string m_Localized = "Ah, this one seems to be the main body. What was that thing just now?"
+     1 string m_Localized = "Ah, this one seems to be the main body. I wonder what that other thing was?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1894,7 +1894,7 @@
    [234]
     0 TableEntryData data
      0 SInt64 m_Id = 3526676489
-     1 string m_Localized = "It's coming!"
+     1 string m_Localized = "Incoming!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1902,7 +1902,7 @@
    [235]
     0 TableEntryData data
      0 SInt64 m_Id = 3526676490
-     1 string m_Localized = "Ah, it ran away again! Oh, it's running away again! Let's go after it!"
+     1 string m_Localized = "Arrrgh, it ran away again! Stay on his tail, Nowa!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1910,7 +1910,7 @@
    [236]
     0 TableEntryData data
      0 SInt64 m_Id = 3526676491
-     1 string m_Localized = "Okay, I'm on it."
+     1 string m_Localized = "Understood!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1918,7 +1918,7 @@
    [237]
     0 TableEntryData data
      0 SInt64 m_Id = 3526676492
-     1 string m_Localized = "Okay, now I'm going to get the wax lens inside you!"
+     1 string m_Localized = "I'm getting that Raw Lens that's inside you this time!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1926,7 +1926,7 @@
    [238]
     0 TableEntryData data
      0 SInt64 m_Id = 3526676493
-     1 string m_Localized = "What the heck is this?"
+     1 string m_Localized = "WHAT THE HELL IS THAT?!!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1934,7 +1934,7 @@
    [239]
     0 TableEntryData data
      0 SInt64 m_Id = 3526676494
-     1 string m_Localized = "It's huge!"
+     1 string m_Localized = "It's <i>huge</i>!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1942,7 +1942,7 @@
    [240]
     0 TableEntryData data
      0 SInt64 m_Id = 3526676495
-     1 string m_Localized = "I didn't hear that! I didn't hear that!"
+     1 string m_Localized = "Nobody told me about this!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1950,7 +1950,7 @@
    [241]
     0 TableEntryData data
      0 SInt64 m_Id = 3526676496
-     1 string m_Localized = "Is that sound ...... moving in the sand?"
+     1 string m_Localized = "This sound... it's burrowing under the sand?!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1958,7 +1958,7 @@
    [242]
     0 TableEntryData data
      0 SInt64 m_Id = 3526676497
-     1 string m_Localized = "Look, look, Noah! Look, Noah! There's sand blowing up over there!"
+     1 string m_Localized = "Look over there, Nowa! That sand geyser over there!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1966,7 +1966,7 @@
    [243]
     0 TableEntryData data
      0 SInt64 m_Id = 3526676498
-     1 string m_Localized = "What is that?"
+     1 string m_Localized = "What the heck is this?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1974,7 +1974,7 @@
    [244]
     0 TableEntryData data
      0 SInt64 m_Id = 3526676499
-     1 string m_Localized = "What's this? Oh, no! What's that? - Oh, no! If you provoke it, it'll go to ......."
+     1 string m_Localized = "Wait, no! Don't prod it!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1982,7 +1982,7 @@
    [245]
     0 TableEntryData data
      0 SInt64 m_Id = 3526676500
-     1 string m_Localized = "Oh, no! What is it? Oh, my God!"
+     1 string m_Localized = "WH-WHA-WHAT'S HAPPENING...?!!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1990,7 +1990,7 @@
    [246]
     0 TableEntryData data
      0 SInt64 m_Id = 3526676501
-     1 string m_Localized = "Oh, my God!"
+     1 string m_Localized = "WAAAAAAAAH!!!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1998,7 +1998,7 @@
    [247]
     0 TableEntryData data
      0 SInt64 m_Id = 3526676502
-     1 string m_Localized = "Aaahhh!"
+     1 string m_Localized = "YAAAAAAAAH!!!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
