@@ -614,7 +614,7 @@
    [74]
     0 TableEntryData data
      0 SInt64 m_Id = 3958689809
-     1 string m_Localized = ""
+     1 string m_Localized = "MS05, line [292]. Party, in Imperishark, stumbles across Yuferius trying to hype up a crowd to join the Sharkship Race. Barnard explains that the race gets quite rough. Speaker responds with curiosity, excitement, contempt, or fear. "Sounds interesting", "Sounds exciting!", "Looks like fun!", "Sounds intense!", "How barbaric", "Sounds scary.""
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -622,7 +622,7 @@
    [75]
     0 TableEntryData data
      0 SInt64 m_Id = 3958689810
-     1 string m_Localized = ""
+     1 string m_Localized = "MS05, line [311]. Party is meeting  Skyd, the Sharkmen Shoalmaster. Party has presented a request for military aid against the Empire. Skyd is pondering the request, after noting that many Sharkmen lives would be lost if they were to join the war. Speaker worries about Skyd's non-committal responce, "Did we ask for too much?", "Is it too difficult?", "Is that a no?"."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -630,7 +630,7 @@
    [76]
     0 TableEntryData data
      0 SInt64 m_Id = 3958689811
-     1 string m_Localized = ""
+     1 string m_Localized = "MS05. line [330]. Following from above. The Sharkmen are eager to join the war, but Nowa has to prove himself an honourable leader by joining the Sharkship Race. Barnard explains that Nowa might not need to actually win, just give a good enough performance. Speaker comments with excitement, encouragement, or worry. "Let's do it!", "Good luck!" "Do your best!", "I guess this is okay??", "Will we be okay?", "Are we really doing this?""
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -638,7 +638,7 @@
    [77]
     0 TableEntryData data
      0 SInt64 m_Id = 3958689812
-     1 string m_Localized = ""
+     1 string m_Localized = "MS05, line [338], unconfirmed but very likely. This line exists in a dialogue branch that's only accessible if you do NOT see Yuferius's Sharkship Racing announcement before talking to Skyd. Nowa sees Yuferius for the first time from a distance, calling for challengers, after being told to join the Sharkship Race. Nowa decides to approach after Barnard describes that the Sharkship Races are brutal and cross the desert. Speaker responds with encouragement and excitement. "Alright, let's go!", "I'll do my best!""
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -646,7 +646,7 @@
    [78]
     0 TableEntryData data
      0 SInt64 m_Id = 3958689813
-     1 string m_Localized = ""
+     1 string m_Localized = "MS05, line [367]. Yuferius talks with hype and gusto while explaining that "special training" is about to begin, Nowa starts to talk like him too while agreeing. Speaker comments that Nowa is easily influenced, or joins in the excitement for "special training", or is just weirded out."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -654,7 +654,7 @@
    [79]
     0 TableEntryData data
      0 SInt64 m_Id = 3958689814
-     1 string m_Localized = ""
+     1 string m_Localized = "MS05, line [372]. Following from above. Yuferius's Special Training complete. He tells Nowa to rest at the inn, so he can be ready for the race tomorrow. Nowa responds with "YES, SIR!! WITH FIGHTING SPIRIT!!". Speaker either worries that Nowa has been influenced by something strange or some spell, or just responds incredulously to Nowa, or is similarly fired up as Nowa, or is sick of the training and wants to just leave."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
