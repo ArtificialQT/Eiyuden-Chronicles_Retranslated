@@ -614,7 +614,7 @@
    [74]
     0 TableEntryData data
      0 SInt64 m_Id = 3715420185
-     1 string m_Localized = "Oh, it looks like an intense event."
+     1 string m_Localized = "Oh? Sounds quite intense."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -622,7 +622,7 @@
    [75]
     0 TableEntryData data
      0 SInt64 m_Id = 3715420186
-     1 string m_Localized = "How hard can it be? ......"
+     1 string m_Localized = "Is it too much?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -630,7 +630,7 @@
    [76]
     0 TableEntryData data
      0 SInt64 m_Id = 3719614464
-     1 string m_Localized = "Let's do it!"
+     1 string m_Localized = "Let's get it done!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -638,7 +638,7 @@
    [77]
     0 TableEntryData data
      0 SInt64 m_Id = 3719614465
-     1 string m_Localized = "Let's go for it!"
+     1 string m_Localized = "Let's give it our best shot!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -646,7 +646,7 @@
    [78]
     0 TableEntryData data
      0 SInt64 m_Id = 3719614466
-     1 string m_Localized = "Let's train!"
+     1 string m_Localized = "Special training!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -654,7 +654,7 @@
    [79]
     0 TableEntryData data
      0 SInt64 m_Id = 3719614467
-     1 string m_Localized = "Let's do it! - Let's do it!"
+     1 string m_Localized = "Fighting Spirit!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
