@@ -614,7 +614,7 @@
    [74]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497353
-     1 string m_Localized = "It looks quite interesting, doesn't it? Is it difficult?"
+     1 string m_Localized = "It sounds rather interesting, doesn't it?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -622,7 +622,7 @@
    [75]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497354
-     1 string m_Localized = "Is it difficult ......?"
+     1 string m_Localized = "I guess it was too much...?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -630,7 +630,7 @@
    [76]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497355
-     1 string m_Localized = "Yes, yes, let's do our best."
+     1 string m_Localized = "Yup, yup. Let's do our best."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -646,7 +646,7 @@
    [78]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497357
-     1 string m_Localized = "Nowa is easily influenced. ......"
+     1 string m_Localized = "Nowa is rather easily influenced, you see..."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -654,7 +654,7 @@
    [79]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497358
-     1 string m_Localized = "We've become good friends. ......"
+     1 string m_Localized = "You've gone and become such good friends..."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
