@@ -654,7 +654,7 @@
    [79]
     0 TableEntryData data
      0 SInt64 m_Id = 3992244252
-     1 string m_Localized = "Yeah! My fighting spirit is all fired up too!"
+     1 string m_Localized = "YEAH! My fighting spirit's all fired up too!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
