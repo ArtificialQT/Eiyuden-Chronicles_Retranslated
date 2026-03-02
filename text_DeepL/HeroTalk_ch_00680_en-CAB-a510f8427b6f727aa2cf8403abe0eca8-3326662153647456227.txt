@@ -614,7 +614,7 @@
    [74]
     0 TableEntryData data
      0 SInt64 m_Id = 2910113799
-     1 string m_Localized = "It's a barbaric habit."
+     1 string m_Localized = "What a barbaric custom."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -622,7 +622,7 @@
    [75]
     0 TableEntryData data
      0 SInt64 m_Id = 2910113800
-     1 string m_Localized = "Is it difficult ......?"
+     1 string m_Localized = "Is it too much of an ask...?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -630,7 +630,7 @@
    [76]
     0 TableEntryData data
      0 SInt64 m_Id = 2910113801
-     1 string m_Localized = "You have to do it, don't you?"
+     1 string m_Localized = "Guess we've got no choice, huh?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -638,7 +638,7 @@
    [77]
     0 TableEntryData data
      0 SInt64 m_Id = 2910113802
-     1 string m_Localized = "I'll go with you."
+     1 string m_Localized = "Guess I'll humour you."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -646,7 +646,7 @@
    [78]
     0 TableEntryData data
      0 SInt64 m_Id = 2910113803
-     1 string m_Localized = "You are easily influenced, aren't you?"
+     1 string m_Localized = "You really <i>are</i> easily influenced, huh?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -654,7 +654,7 @@
    [79]
     0 TableEntryData data
      0 SInt64 m_Id = 2910113804
-     1 string m_Localized = "You're so easily influenced."
+     1 string m_Localized = "Ugh... too intense..."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
