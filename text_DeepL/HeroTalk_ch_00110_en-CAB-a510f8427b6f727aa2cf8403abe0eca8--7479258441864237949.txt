@@ -614,7 +614,7 @@
    [74]
     0 TableEntryData data
      0 SInt64 m_Id = 2809450521
-     1 string m_Localized = "Looks very interesting!"
+     1 string m_Localized = "That sounds <i>really</i> fun!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -622,7 +622,7 @@
    [75]
     0 TableEntryData data
      0 SInt64 m_Id = 2809450522
-     1 string m_Localized = "Is it a no-no ......?"
+     1 string m_Localized = "Is that a no?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -630,7 +630,7 @@
    [76]
     0 TableEntryData data
      0 SInt64 m_Id = 2809450523
-     1 string m_Localized = "Okay, let's do it, let's do it! \nIf you have a heart for justice, you can win!"
+     1 string m_Localized = "Okay, let's do it!\nOur Hearts of Justice will bring us victory!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -638,7 +638,7 @@
    [77]
     0 TableEntryData data
      0 SInt64 m_Id = 2809450524
-     1 string m_Localized = "Okay, go-go!"
+     1 string m_Localized = "Alright, GO GO!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -646,7 +646,7 @@
    [78]
     0 TableEntryData data
      0 SInt64 m_Id = 2809450525
-     1 string m_Localized = "Special training, good luck!"
+     1 string m_Localized = "'<i>Special training</i>'? Let's give it our all!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -654,7 +654,7 @@
    [79]
     0 TableEntryData data
      0 SInt64 m_Id = 2809450526
-     1 string m_Localized = "It's the spirit!"
+     1 string m_Localized = "FIGHTING SPIRIT!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
