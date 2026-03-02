@@ -614,7 +614,7 @@
    [74]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691670
-     1 string m_Localized = "I'd like to see it."
+     1 string m_Localized = "I'd like to observe it."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -622,7 +622,7 @@
    [75]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691671
-     1 string m_Localized = "Is it difficult ......?"
+     1 string m_Localized = "Is it asking for too much...?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -630,7 +630,7 @@
    [76]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691672
-     1 string m_Localized = "Let's get some results with this!"
+     1 string m_Localized = "Let us strive to produce meaningful results!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -646,7 +646,7 @@
    [78]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691674
-     1 string m_Localized = "No, Mr. Nowa. ......"
+     1 string m_Localized = "M-Master Nowa..."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -654,7 +654,7 @@
    [79]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691675
-     1 string m_Localized = "Are you a little under the influence?"
+     1 string m_Localized = "Have you come under their influence a little?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
