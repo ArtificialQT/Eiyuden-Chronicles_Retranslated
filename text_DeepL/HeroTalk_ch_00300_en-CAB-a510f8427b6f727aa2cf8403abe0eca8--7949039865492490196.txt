@@ -614,7 +614,7 @@
    [74]
     0 TableEntryData data
      0 SInt64 m_Id = 2968834072
-     1 string m_Localized = "Isn't it scary?"
+     1 string m_Localized = "Does it get scary?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -622,7 +622,7 @@
    [75]
     0 TableEntryData data
      0 SInt64 m_Id = 2968834073
-     1 string m_Localized = "Is it no good? ......"
+     1 string m_Localized = "Is it no good...?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -630,7 +630,7 @@
    [76]
     0 TableEntryData data
      0 SInt64 m_Id = 2968834074
-     1 string m_Localized = "Oh, you want to do it?"
+     1 string m_Localized = "Are we really gonna join?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -638,7 +638,7 @@
    [77]
     0 TableEntryData data
      0 SInt64 m_Id = 2968834075
-     1 string m_Localized = "Yes, yes, I'll do my best."
+     1 string m_Localized = "Y-yes. I'll do my best."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -646,7 +646,7 @@
    [78]
     0 TableEntryData data
      0 SInt64 m_Id = 2968834076
-     1 string m_Localized = "Um, ......?"
+     1 string m_Localized = "Ummm...?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -654,7 +654,7 @@
    [79]
     0 TableEntryData data
      0 SInt64 m_Id = 2968834077
-     1 string m_Localized = "Are you feeling ......?"
+     1 string m_Localized = "Fighting spirit...??"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
