@@ -662,7 +662,7 @@
    [80]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497359
-     1 string m_Localized = "That was close."
+     1 string m_Localized = "Oh, you were so close."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -670,7 +670,7 @@
    [81]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497360
-     1 string m_Localized = "I'm sure it's not easy."
+     1 string m_Localized = "It looks rather tough, huh?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -678,7 +678,7 @@
    [82]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497361
-     1 string m_Localized = "Nowa......"
+     1 string m_Localized = "Nowa..."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -694,7 +694,7 @@
    [84]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497363
-     1 string m_Localized = ""
+     1 string m_Localized = "That's great!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -702,7 +702,7 @@
    [85]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497364
-     1 string m_Localized = "First place, that's great Nowa! I'll have to brag about it to everyone."
+     1 string m_Localized = "First place, that's my Nowa!\nCan't wait to tell everyone!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -710,7 +710,7 @@
    [86]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497365
-     1 string m_Localized = ""
+     1 string m_Localized = "First place. That's my Nowa!\nCan't wait to tell everyone!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -718,7 +718,7 @@
    [87]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497366
-     1 string m_Localized = "You did it!"
+     1 string m_Localized = "Way to go!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
