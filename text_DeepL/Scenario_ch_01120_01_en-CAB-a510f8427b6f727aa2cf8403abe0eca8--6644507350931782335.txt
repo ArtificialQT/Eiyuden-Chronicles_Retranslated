@@ -238,7 +238,7 @@
    [27]
     0 TableEntryData data
      0 SInt64 m_Id = 4067741709
-     1 string m_Localized = "Is your castle that-a-way?\nI'll head over there then."
+     1 string m_Localized = "Is your fortress that-a-way?\nI'll head over there then."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
