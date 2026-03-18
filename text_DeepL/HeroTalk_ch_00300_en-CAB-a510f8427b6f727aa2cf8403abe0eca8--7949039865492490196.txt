@@ -662,7 +662,7 @@
    [80]
     0 TableEntryData data
      0 SInt64 m_Id = 2968834078
-     1 string m_Localized = "I was almost there. ......"
+     1 string m_Localized = "You were so close..."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -670,7 +670,7 @@
    [81]
     0 TableEntryData data
      0 SInt64 m_Id = 2968834079
-     1 string m_Localized = "I don't know if I can ......"
+     1 string m_Localized = "Is it hopeless...?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -678,7 +678,7 @@
    [82]
     0 TableEntryData data
      0 SInt64 m_Id = 2968834080
-     1 string m_Localized = "Noah ......"
+     1 string m_Localized = "Nowa..."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -702,7 +702,7 @@
    [85]
     0 TableEntryData data
      0 SInt64 m_Id = 2968834083
-     1 string m_Localized = "Congratulations, you're in first place!"
+     1 string m_Localized = "Congratulations! You got first place!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -710,7 +710,7 @@
    [86]
     0 TableEntryData data
      0 SInt64 m_Id = 2968834084
-     1 string m_Localized = "Congratulations, you're in first place!"
+     1 string m_Localized = "Congratulations! You got first place!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
