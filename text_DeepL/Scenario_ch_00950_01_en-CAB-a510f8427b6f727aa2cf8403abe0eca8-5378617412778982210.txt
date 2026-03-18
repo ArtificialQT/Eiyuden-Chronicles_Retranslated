@@ -1,0 +1,218 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "Scenario_ch_00950_01_en"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "en"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = 1447435307141297577
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (24 items)
+   0 int size = 24
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3438596096
+     1 string m_Localized = "Yo! That was a fine race, Nowa. Listen, how's about we have another round?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3446984704
+     1 string m_Localized = "If ya win, I'll join ya."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3446984705
+     1 string m_Localized = "We’re here, Nowa."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3446984706
+     1 string m_Localized = "That a real fine race we had back then. In fact, how's about we go around round right now?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3451179008
+     1 string m_Localized = "If ya win, I'll join ya.\nJust lemme know when you're good to go."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3451179009
+     1 string m_Localized = "That's more like it! Let's get this race started!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3451179010
+     1 string m_Localized = "We're running a different course this time. If ya can beat our time, then victory is yours."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3451179011
+     1 string m_Localized = "That was your first ever race back then. It's customary to run at half sail when racing a newcomer."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3451179012
+     1 string m_Localized = "This time the limitors are off.\nAlthough, there was also the difference between the ships. So the handicap was more of a half or a half."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3451179013
+     1 string m_Localized = "Now, wanna give it a shot?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3451179014
+     1 string m_Localized = "Yup! Let's do this!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3451179015
+     1 string m_Localized = "Impressive! Ya beat me when I was going all out. Guess I'll trust ya with leading my dorsal fin."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3451179016
+     1 string m_Localized = "So you’ll join us?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3451179017
+     1 string m_Localized = "Of course I will. I swear on my dorsal fin, I ain't lying."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3451179018
+     1 string m_Localized = "Henceforth, the Europhe and I will be at your service. I swear it!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3451179019
+     1 string m_Localized = "Thank you."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3451179020
+     1 string m_Localized = "Now, with that settled, time ta hoist the sails and cast off! We'll sail off into the farthest horizon!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3451179021
+     1 string m_Localized = "Close... but a loss is a loss. Ya ain't recruiting me this time."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [18]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3451179022
+     1 string m_Localized = "That said, I'll accept your challenge anytime. My dorsal fin would be disgraced if I ran from a fight."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3451179023
+     1 string m_Localized = "Ya almost had me... but a loss is a loss. Ya ain't recruiting me this time."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [20]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3451179024
+     1 string m_Localized = "That said, I'll accept your challenge anytime. My dorsal fin would be disgraced if I ran from a fight."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [21]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3451179025
+     1 string m_Localized = "What's up? Was your performance back then just a fluke...?\nBut a loss is a loss. Ya ain't recruiting me this time."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [22]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3451179026
+     1 string m_Localized = "That said, I'll accept your challenge anytime. My dorsal fin would be disgraced if I ran from a fight."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [23]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3451179027
+     1 string m_Localized = "The race is on? Glad ta hear it!\nI like men who don't quit!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0
