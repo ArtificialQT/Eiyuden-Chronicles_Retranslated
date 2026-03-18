@@ -662,7 +662,7 @@
    [80]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691676
-     1 string m_Localized = "Damn it!"
+     1 string m_Localized = "DAMNIT!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -670,7 +670,7 @@
    [81]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691677
-     1 string m_Localized = "Not again. ......"
+     1 string m_Localized = "Not good enough again...?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -678,7 +678,7 @@
    [82]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691678
-     1 string m_Localized = "Nowa. ......"
+     1 string m_Localized = "Master Nowa..."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -686,7 +686,7 @@
    [83]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691679
-     1 string m_Localized = "You did it!"
+     1 string m_Localized = "You did well!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -694,7 +694,7 @@
    [84]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691680
-     1 string m_Localized = "You did it!"
+     1 string m_Localized = "You did well!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -702,7 +702,7 @@
    [85]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691681
-     1 string m_Localized = "You did it! - You did it!　That's great!"
+     1 string m_Localized = "You got first place! That's wonderful!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -710,7 +710,7 @@
    [86]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691682
-     1 string m_Localized = "First place!　That's great!"
+     1 string m_Localized = "You got first place! That's wonderful!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -718,7 +718,7 @@
    [87]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691683
-     1 string m_Localized = "Thank you so much!"
+     1 string m_Localized = "Thank you very much!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
