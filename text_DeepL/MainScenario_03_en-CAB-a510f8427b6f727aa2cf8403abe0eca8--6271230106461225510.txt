@@ -582,7 +582,7 @@
    [70]
     0 TableEntryData data
      0 SInt64 m_Id = 4210348034
-     1 string m_Localized = "Yes, we have much to do. For the past week, I've had you all working to restore this abandoned castle."
+     1 string m_Localized = "Yes, we have much to do. For the past week, I've had you all working to restore this abandoned fortress."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -694,7 +694,7 @@
    [84]
     0 TableEntryData data
      0 SInt64 m_Id = 4210348048
-     1 string m_Localized = "And that job is... NAMING THIS CASTLE!\nWe can't go on forever without giving our base a name, right?"
+     1 string m_Localized = "And that job is... NAMING THIS FORTRESS!\nWe can't go on forever without giving our base a name, right?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -718,7 +718,7 @@
    [87]
     0 TableEntryData data
      0 SInt64 m_Id = 4210348051
-     1 string m_Localized = "Well then, please name this castle."
+     1 string m_Localized = "Well then, please name this fortress."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
