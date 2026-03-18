@@ -662,7 +662,7 @@
    [80]
     0 TableEntryData data
      0 SInt64 m_Id = 2910113805
-     1 string m_Localized = "I'm not going to go out with you."
+     1 string m_Localized = "Didn't work out, huh."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -670,7 +670,7 @@
    [81]
     0 TableEntryData data
      0 SInt64 m_Id = 2910113806
-     1 string m_Localized = "Huh, ......."
+     1 string m_Localized = "Sigh..."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -678,7 +678,7 @@
    [82]
     0 TableEntryData data
      0 SInt64 m_Id = 2910113807
-     1 string m_Localized = "You idiot."
+     1 string m_Localized = "Idiot."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -702,7 +702,7 @@
    [85]
     0 TableEntryData data
      0 SInt64 m_Id = 2910113810
-     1 string m_Localized = "First place, that's great!"
+     1 string m_Localized = "First place? Huh. I'm impressed."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -710,7 +710,7 @@
    [86]
     0 TableEntryData data
      0 SInt64 m_Id = 2910113811
-     1 string m_Localized = "First place, that's great!"
+     1 string m_Localized = "First place? Huh. I'm impressed."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -718,7 +718,7 @@
    [87]
     0 TableEntryData data
      0 SInt64 m_Id = 2910113812
-     1 string m_Localized = "Another funny guy in the gang."
+     1 string m_Localized = "More <i>interesting</i> people in our ranks..."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
