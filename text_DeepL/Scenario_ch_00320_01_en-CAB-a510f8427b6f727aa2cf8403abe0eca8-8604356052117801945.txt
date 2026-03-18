@@ -270,7 +270,7 @@
    [31]
     0 TableEntryData data
      0 SInt64 m_Id = 3417624581
-     1 string m_Localized = "Oh, have you come to summon me to your castle, perhaps?"
+     1 string m_Localized = "Oh, have you come to summon me to your fortress, perhaps?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
