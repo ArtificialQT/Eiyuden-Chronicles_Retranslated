@@ -262,7 +262,7 @@
    [30]
     0 TableEntryData data
      0 SInt64 m_Id = 4331982858
-     1 string m_Localized = "I <i>am</i> worried about our Lady, but I will stay here to guard the castle in her absense."
+     1 string m_Localized = "I <i>am</i> worried about our Lady, but I will stay here to guard the fortress in her absense."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -598,7 +598,7 @@
    [72]
     0 TableEntryData data
      0 SInt64 m_Id = 4336177172
-     1 string m_Localized = "Ooh? So gave the castle <i>that</i> name?"
+     1 string m_Localized = "Ooh? So you gave the fortress <i>that</i> name?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -646,7 +646,7 @@
    [78]
     0 TableEntryData data
      0 SInt64 m_Id = 4336177178
-     1 string m_Localized = "Janquis and Sabine will remain here and try establish a means to communicate with Y'mir back at the, uh... the Castle."
+     1 string m_Localized = "Janquis and Sabine will remain here and try establish a means to communicate with Y'mir back at the, uh... the fortress."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -702,7 +702,7 @@
    [85]
     0 TableEntryData data
      0 SInt64 m_Id = 4336177185
-     1 string m_Localized = "My Lady, Mr. Nowa. We've established contact with the castle."
+     1 string m_Localized = "My Lady, Mr. Nowa. We've established contact with the fortress."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
