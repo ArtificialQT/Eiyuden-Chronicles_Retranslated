@@ -5070,7 +5070,7 @@
    [631]
     0 TableEntryData data
      0 SInt64 m_Id = 2855587875
-     1 string m_Localized = "Well, well, how about <i>that</i> place?\nThe abandoned castle we were at the other day, where we met that General what's-his-name!"
+     1 string m_Localized = "Well, well, how about <i>that</i> place?\nThe abandoned fortress we were at the other day, where we met that General what's-his-name!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
