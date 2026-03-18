@@ -414,7 +414,7 @@
    [49]
     0 TableEntryData data
      0 SInt64 m_Id = 3354710026
-     1 string m_Localized = "In that case, nice to meet ya. I'll head on over to your castle."
+     1 string m_Localized = "In that case, nice to meet ya. I'll head on over to your fortress."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
