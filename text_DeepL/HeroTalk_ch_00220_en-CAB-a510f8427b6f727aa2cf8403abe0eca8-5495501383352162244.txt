@@ -662,7 +662,7 @@
    [80]
     0 TableEntryData data
      0 SInt64 m_Id = 3992244253
-     1 string m_Localized = "No good.......!"
+     1 string m_Localized = "Not good enough...??"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -670,7 +670,7 @@
    [81]
     0 TableEntryData data
      0 SInt64 m_Id = 3996438528
-     1 string m_Localized = "Damn, no good......."
+     1 string m_Localized = "Damnit, no good...?!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -678,7 +678,7 @@
    [82]
     0 TableEntryData data
      0 SInt64 m_Id = 3996438529
-     1 string m_Localized = "Nowa......"
+     1 string m_Localized = "Nowa..."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -694,7 +694,7 @@
    [84]
     0 TableEntryData data
      0 SInt64 m_Id = 3996438531
-     1 string m_Localized = ""
+     1 string m_Localized = "You did it!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -702,7 +702,7 @@
    [85]
     0 TableEntryData data
      0 SInt64 m_Id = 3996438532
-     1 string m_Localized = "You're doing it! \nYou're on top, Nowa!"
+     1 string m_Localized = "Well I'll be damned!\nYou clinched the top spot, Nowa!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -710,7 +710,7 @@
    [86]
     0 TableEntryData data
      0 SInt64 m_Id = 3996438533
-     1 string m_Localized = ""
+     1 string m_Localized = "Well I'll be damned!\nYou clinched the top spot, Nowa!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -718,7 +718,7 @@
    [87]
     0 TableEntryData data
      0 SInt64 m_Id = 3996438534
-     1 string m_Localized = "Oooooh~!"
+     1 string m_Localized = "HELL YEAH!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
