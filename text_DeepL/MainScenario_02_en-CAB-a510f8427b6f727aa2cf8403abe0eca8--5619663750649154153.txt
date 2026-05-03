@@ -3702,7 +3702,7 @@
    [460]
     0 TableEntryData data
      0 SInt64 m_Id = 2838810664
-     1 string m_Localized = "You're back, Acting Sqaud Leader.\nI was just on my way to meet to the Lady.\nJust as well, please come along."
+     1 string m_Localized = "You're back, Acting Squad Leader.\nI was just on my way to meet the Lady.\nJust as well, please come along."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
