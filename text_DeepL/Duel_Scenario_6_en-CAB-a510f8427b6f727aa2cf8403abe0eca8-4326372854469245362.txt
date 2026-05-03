@@ -70,7 +70,7 @@
    [6]
     0 TableEntryData data
      0 SInt64 m_Id = 6013898757
-     1 string m_Localized = "That is merely <i>your</i> shot-sightedness view. What I'm doing is for the <i>greater good</i>!"
+     1 string m_Localized = "That is merely <i>your</i> shot-sighted perspective. What I'm doing is for the <i>greater good</i>!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -110,7 +110,7 @@
    [11]
     0 TableEntryData data
      0 SInt64 m_Id = 6013898762
-     1 string m_Localized = "This is necessary to secure humanity's future."
+     1 string m_Localized = "This is necessary to secure humanity's destiny."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
