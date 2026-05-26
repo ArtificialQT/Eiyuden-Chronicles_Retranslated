@@ -1,0 +1,250 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "Scenario_ch_00490_01_en"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "en"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = -2029220637485888036
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (28 items)
+   0 int size = 28
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3870609408
+     1 string m_Localized = "*Sigh*... Is there something you need from me, young man?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3883192320
+     1 string m_Localized = "I'm looking for new comrades. Not necessarily just fighters, but people who can contribute to our town and help it thrive."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3883192321
+     1 string m_Localized = "Help your town thrive...?\nI suppose that would include establishing a theatre to stage plays and the like?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3883192322
+     1 string m_Localized = "I once had ambitions in theatre, but alas, I have since lost my passion."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3883192323
+     1 string m_Localized = "No... rather, I should say I am no longer worthy of being in the world of theatre."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3883192324
+     1 string m_Localized = "But, mayhaps, if there exists a '<i>script</i>' that could reignite my passion once more..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3883192325
+     1 string m_Localized = "O-ho? Is that a '<i>script</i> you happen to possess?\nMay I have the pleasure?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3883192326
+     1 string m_Localized = "Sure. Go ahead."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3883192327
+     1 string m_Localized = "You have my gratitude.\nHmm... Entitled, <i>The Star-Cross'd Lovers</i>...\nOooh..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3883192328
+     1 string m_Localized = "This is a drama! A true <i>DRAMA</i>!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3883192329
+     1 string m_Localized = "Huh??"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3883192330
+     1 string m_Localized = "How could it be, that this masterful script which so resonates with my heart, would find its way into my arms through you...\nI sense the hands of fate at work here."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3883192331
+     1 string m_Localized = "Furthermore, I sense that you have journeyed through extraordinary twists of fate as well."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3883192332
+     1 string m_Localized = "I guess...?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3883192333
+     1 string m_Localized = "It is clear to me that you and I were <i>destined</i> to meet here. Perhaps a single scene in fate's <i>grand play</i>."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3883192334
+     1 string m_Localized = "A message from the divine, telling me, a person who thought to never walk in the world of theatre again, to raise the curtains once more..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3883192335
+     1 string m_Localized = "So be it! I shall become one of your comra-... no, that's not enough.\nWould you allow me to build a theatre in your town and serve as its <i>impresario</i>?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3887386624
+     1 string m_Localized = "Splendid, pleasure to make your acquientance. My name is Clarke.\nCome, let us raise the curtain and give them fleeting dreams to remember!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [18]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3887386625
+     1 string m_Localized = "O-ho? There are still preparations to be made?\nIn that case, please summon me when you're ready."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3887386626
+     1 string m_Localized = "Have you decided to make me your impresario?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [20]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3887386627
+     1 string m_Localized = "Mayhaps, if there exists a '<i>script</i>' that could reignite my passion once more... Things would be different."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [21]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3887386628
+     1 string m_Localized = "But for today, I must ask that you leave me be. If it’s in fate’s script, then our paths will cross again."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [22]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3887386629
+     1 string m_Localized = "A '<i>script</i>. What I require is a script capable of reigniting my passion once more."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [23]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3887386630
+     1 string m_Localized = "O-ho? I see you happen to possess a '<i>script</i>, however..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [24]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3887386631
+     1 string m_Localized = "Regrettable, it seems unable to resonate with the man I am now..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [25]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3887386632
+     1 string m_Localized = "At present, I seek works filled with <i>passion</i>."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [26]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3887386633
+     1 string m_Localized = "O-ho? We meet again, young man.\nIs that a '<i>script</i> you happen to possess?\nMay I have the pleasure?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [27]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3887386634
+     1 string m_Localized = "Yes, this is the one!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0
