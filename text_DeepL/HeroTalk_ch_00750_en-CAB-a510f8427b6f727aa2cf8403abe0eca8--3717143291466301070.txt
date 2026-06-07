@@ -734,7 +734,7 @@
    [89]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691685
-     1 string m_Localized = "Are you wondering what Mr. Say and the others are up to?"
+     1 string m_Localized = "Are you concerned about Seign and the others?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -742,7 +742,7 @@
    [90]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691686
-     1 string m_Localized = "Let's do our best too."
+     1 string m_Localized = "Let us do our best, too."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -750,7 +750,7 @@
    [91]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691687
-     1 string m_Localized = "Well then, Nowa-sama, ...... good night."
+     1 string m_Localized = "Well then, good night, Master Nowa."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
