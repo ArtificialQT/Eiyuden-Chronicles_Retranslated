@@ -734,7 +734,7 @@
    [89]
     0 TableEntryData data
      0 SInt64 m_Id = 2910113814
-     1 string m_Localized = "I hope Sey didn't do anything crazy."
+     1 string m_Localized = "I hope Seign isn't overworking himself."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -742,7 +742,7 @@
    [90]
     0 TableEntryData data
      0 SInt64 m_Id = 2910113815
-     1 string m_Localized = "We'll do what we have to do."
+     1 string m_Localized = "We'll just do what we have to do."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -750,7 +750,7 @@
    [91]
     0 TableEntryData data
      0 SInt64 m_Id = 2910113816
-     1 string m_Localized = "Get some rest. You get some rest, okay? I promise!"
+     1 string m_Localized = "Get some proper rest.\nYou heard me? No 'buts'!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
