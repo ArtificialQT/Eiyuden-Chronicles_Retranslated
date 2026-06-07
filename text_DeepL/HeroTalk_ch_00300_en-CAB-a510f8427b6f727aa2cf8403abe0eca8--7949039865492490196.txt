@@ -734,7 +734,7 @@
    [89]
     0 TableEntryData data
      0 SInt64 m_Id = 2968834087
-     1 string m_Localized = "I wonder how Say and the others are doing."
+     1 string m_Localized = "I wonder how Seign and the others are doing."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -750,7 +750,7 @@
    [91]
     0 TableEntryData data
      0 SInt64 m_Id = 2968834089
-     1 string m_Localized = "Noah, good night."
+     1 string m_Localized = "Good night, Nowa."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
