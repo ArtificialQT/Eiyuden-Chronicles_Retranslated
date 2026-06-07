@@ -1486,7 +1486,7 @@
    [183]
     0 TableEntryData data
      0 SInt64 m_Id = 4139044875
-     1 string m_Localized = "Aah! Mr. Seign! Over there!"
+     1 string m_Localized = "Aah! Mister Seign! Over there!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2022,7 +2022,7 @@
    [250]
     0 TableEntryData data
      0 SInt64 m_Id = 4143239198
-     1 string m_Localized = "Mr. Seign!<autosubmit=0.5>"
+     1 string m_Localized = "Mister Seign!<autosubmit=0.5>"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2238,7 +2238,7 @@
    [277]
     0 TableEntryData data
      0 SInt64 m_Id = 4147433478
-     1 string m_Localized = "Mr. Seign..."
+     1 string m_Localized = "Mister Seign..."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2934,7 +2934,7 @@
    [364]
     0 TableEntryData data
      0 SInt64 m_Id = 4151627818
-     1 string m_Localized = "Where's Mr. Seign...?"
+     1 string m_Localized = "Where's Mister Seign...?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
