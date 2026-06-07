@@ -662,7 +662,7 @@
    [80]
     0 TableEntryData data
      0 SInt64 m_Id = 3958689815
-     1 string m_Localized = ""
+     1 string m_Localized = "MS05, line [403], unconfirmed but likely. Nowa is participating in the Sharkship Race and loses. This, and the next few herotalks, are all lines from loss branches. Nowa goes through despair from losing the race, the speaker laments with him, "No good?", "We failed?", "We couldn't win?", etc."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -670,7 +670,7 @@
    [81]
     0 TableEntryData data
      0 SInt64 m_Id = 3958689816
-     1 string m_Localized = ""
+     1 string m_Localized = "MS05, line [424], unconfirmed but likely. Following from above. The Sharkmen cheered Nowa up and Nowa decided to try the race again. But he loses, AGAIN. Nowa falls even deeper into despair. Speaker laments again, sounding even more sad and disappointed, "Is it pointless to try?", "Is it truly impossible?", etc."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -678,7 +678,7 @@
    [82]
     0 TableEntryData data
      0 SInt64 m_Id = 3958689817
-     1 string m_Localized = ""
+     1 string m_Localized = "MS05, line [445], unconfirmed but likely. Following from above. Another pep talk. Another race. Nowa loses AGAIN AGAIN. He falls EVEN DEEPERER into despair. Speaker simply call out to Nowa by his name, "Nowa...", or whatever pet name the speaker has for him."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -686,7 +686,7 @@
    [83]
     0 TableEntryData data
      0 SInt64 m_Id = 3958689818
-     1 string m_Localized = ""
+     1 string m_Localized = "MS05, line [454]. Immediately following from above, the Sharkmen simply declare that Nowa's display of never wanting to give up impresses them, so they agree to help anyway, but state that Nowa's racing skills definitely need work. The speaker celebrates with him, "YAY!", "WOOHOO!", "YOU DID IT!", "YOU CLEARED IT!", etc."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -694,7 +694,7 @@
    [84]
     0 TableEntryData data
      0 SInt64 m_Id = 3958689819
-     1 string m_Localized = ""
+     1 string m_Localized = "MS05, line [455]. Appears to be deprecated or cut. Exact same scene as above, and follows immediately after above, and devnotes say to just follow the above. Some Herotalks have this entry empty. Likely originally intended to have multiple characters celebrate clearing the race, but was cut."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -702,7 +702,7 @@
    [85]
     0 TableEntryData data
      0 SInt64 m_Id = 3958689820
-     1 string m_Localized = ""
+     1 string m_Localized = "MS05, line [461]. As above, but Nowa gets 1st place in the race. Nowa celebrates getting 1st place. Speaker celebrates with him, "YAY!", "1st place!", "Top spot!", "You did it, Nowa!", etc."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -710,7 +710,7 @@
    [86]
     0 TableEntryData data
      0 SInt64 m_Id = 3958689821
-     1 string m_Localized = ""
+     1 string m_Localized = "MS05, line [462]. Appears to be deprecated or cut. Exact same scene as above, and follows immediately after above, and devnotes say to just follow the above. Some Herotalks have this entry empty. Likely originally intended to have multiple characters celebrate getting 1st place in the race, but was cut."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -718,7 +718,7 @@
    [87]
     0 TableEntryData data
      0 SInt64 m_Id = 3962884096
-     1 string m_Localized = ""
+     1 string m_Localized = "MS05, line [475]. The Sharkship Race is over. Skyd, the Shoalmaster, has declared that the Sharkmen will join with the Alliance to fight against the Empire. The Sharkmen are eager to "rip the Empire to shreds." Nowa thanks the Sharkmen and celebrates again. Speaker joins in the celebration, "YAY!", "Coming all this way was worth it!", "Thank you!", etc."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -726,7 +726,7 @@
    [88]
     0 TableEntryData data
      0 SInt64 m_Id = 3962884097
-     1 string m_Localized = ""
+     1 string m_Localized = "Empty. Unused."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -734,7 +734,7 @@
    [89]
     0 TableEntryData data
      0 SInt64 m_Id = 3962884098
-     1 string m_Localized = ""
+     1 string m_Localized = "Possibly deprecated. MS06 or early in MS07. Speaker wonders aloud how Seign and his team are doing."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -742,7 +742,7 @@
    [90]
     0 TableEntryData data
      0 SInt64 m_Id = 3962884099
-     1 string m_Localized = ""
+     1 string m_Localized = "Possibly deprecated. MS06 or early in MS07. Speaker appears to agree with Nowa (??) that they must make sure they don't lose against Seign, referencing Nowa's playful competition to see who can complete their missions first during the Sharkmen/Rune Labratory Nowa/Seign split arc for MS05 and MS06."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -750,7 +750,7 @@
    [91]
     0 TableEntryData data
      0 SInt64 m_Id = 3962884100
-     1 string m_Localized = ""
+     1 string m_Localized = "MS07. Line [32]. The first meeting between Nowa and Seign after their Sharkmen/Rune Lab split has just finished. Nowa is tired and worred. Garr, Mio, and Lian recommend that Nowa should take the rest of the day off and get some rest. Speaker escorts him to his room and tells him to get some rest, wishes him good night, or comments about how they're going to be going up against the Empire now, etc."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
