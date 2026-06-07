@@ -734,7 +734,7 @@
    [89]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497368
-     1 string m_Localized = "I wonder how Seign and the others are doing?"
+     1 string m_Localized = "I wonder how Seign's group is doing."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -742,7 +742,7 @@
    [90]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497369
-     1 string m_Localized = "We have to keep up the good work, don't we?"
+     1 string m_Localized = "We gotta do our best too! We can't let them outdo us!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -750,7 +750,7 @@
    [91]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497370
-     1 string m_Localized = "I know you can't tolerate this kind of talk. You are just like your father. But you can't get upset now. Get some rest, eat your dinner, and do what you need to do. So, Nowa. Get some rest."
+     1 string m_Localized = "I know you don't like me nagging you like this, but there's no point in getting worked up now.\nYou're just like your father.\nGet some sleep, have a proper breakfast, and then do what you need to do, alright?.\nWell, good night, Nowa."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
