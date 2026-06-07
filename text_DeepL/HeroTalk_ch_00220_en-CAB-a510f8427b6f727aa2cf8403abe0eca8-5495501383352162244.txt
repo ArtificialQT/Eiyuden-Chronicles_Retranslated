@@ -734,7 +734,7 @@
    [89]
     0 TableEntryData data
      0 SInt64 m_Id = 3996438536
-     1 string m_Localized = "How's it going over there?"
+     1 string m_Localized = "Wonder how they're doing over there."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -742,7 +742,7 @@
    [90]
     0 TableEntryData data
      0 SInt64 m_Id = 3996438537
-     1 string m_Localized = "We'll do our best, too!"
+     1 string m_Localized = "Let's give it our all, too!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
