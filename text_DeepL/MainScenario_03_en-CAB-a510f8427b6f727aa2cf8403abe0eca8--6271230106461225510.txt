@@ -3014,7 +3014,7 @@
    [374]
     0 TableEntryData data
      0 SInt64 m_Id = 4235513867
-     1 string m_Localized = "Well then, you remember <i>this one</i>, don't you?"
+     1 string m_Localized = "Well, you remember <i>this one</i>, don't you?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3038,7 +3038,7 @@
    [377]
     0 TableEntryData data
      0 SInt64 m_Id = 4235513870
-     1 string m_Localized = "And you're still a nasty son of a bitch, aren't you?"
+     1 string m_Localized = "And you're still a nasty son-of-a-bitch."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
