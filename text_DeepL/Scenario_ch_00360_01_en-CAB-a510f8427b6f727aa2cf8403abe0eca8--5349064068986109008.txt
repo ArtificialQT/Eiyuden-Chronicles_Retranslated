@@ -1,0 +1,226 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "Scenario_ch_00360_01_en"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "en"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = -5630833093211168035
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (25 items)
+   0 int size = 25
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4717858816
+     1 string m_Localized = "Art is an <i>explosion</i>!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4730441728
+     1 string m_Localized = "RAAAHHH!! My soul is <i>ABLAZE</i>!!\nI need to carve these feelings burning inside me into reality!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4730441729
+     1 string m_Localized = "If you know of a studio that could contain me, you have to let me know!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4730441730
+     1 string m_Localized = "You think so too, right? Art is <i>freedom</i>! Once you break free from your shackles of conformity, you can do anything!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4730441731
+     1 string m_Localized = "Ergo... An <i>EXPLOSION</i>!!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4730441732
+     1 string m_Localized = "Are you sure about that...?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4730441733
+     1 string m_Localized = "You're so right! An <i>EXPLOSION</i>!!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4730441734
+     1 string m_Localized = "Are you sure about that...?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4730441735
+     1 string m_Localized = "<i>Absolutely</i>! Can't you feel my artistic soul, burning with passion?!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4730441736
+     1 string m_Localized = "You're so right! An <i>EXPLOSION</i>!!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4730441737
+     1 string m_Localized = "HAH! You get it!\nI can see us becoming good friends one day!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4730441738
+     1 string m_Localized = "In any case, what can I do for you?\nAre you here to commission a piece?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4730441739
+     1 string m_Localized = "I'd like you to open a studio in my town."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4730441740
+     1 string m_Localized = "Ohhh? My very own studio??\nMy own little <i>fiefdom of freedom</i>... That doesn't sound half bad!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4730441741
+     1 string m_Localized = "But, is it a place where I will truly be free? If you intend to cage me in, then thanks but no thanks!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4730441742
+     1 string m_Localized = "A place where I can be unbound... let's see..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4730441743
+     1 string m_Localized = "First, I'll need '<i>Iron Ore</i>'!\nNext, '<i>Mystic Lumber</i>'!\nOh! Oh! And '<i>Dire Beastbone</i>' too!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4730441744
+     1 string m_Localized = "With supplies like those, I'd be more than happy to set up a studio in your town!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [18]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4730441745
+     1 string m_Localized = "Hang on, you came well supplied! Now I can finally carve my vision into reality!\nHEH-HEH-HEH!! This is where the fun begins!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4730441746
+     1 string m_Localized = "Does that mean you’ll join us?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [20]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4730441747
+     1 string m_Localized = "Yes! Obviously! The great Syd himself will set up a studio in your town!\nIf you need any art pieces created, I'm your man!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [21]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4730441748
+     1 string m_Localized = "I get the feeling it's going to be quite the studio..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [22]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4730441749
+     1 string m_Localized = "What?! What the hell!?!\nYou don't have all of the materials I requested!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [23]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4730441750
+     1 string m_Localized = "Listen up! I need '<i>Iron Ore</i>', '<i>Mystic Lumber</i>', and '<i>Dire Beastbone</i>'! Don't forget!\nGet me those supplies, and you've got a studio for your town!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [24]
+    0 TableEntryData data
+     0 SInt64 m_Id = 4730441751
+     1 string m_Localized = "Whoa, you <i>actually</i> went out of your way to get these for me?! Now I can finally carve my vision into reality!\nHEH-HEH-HEH!! This is where the fun begins!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0
