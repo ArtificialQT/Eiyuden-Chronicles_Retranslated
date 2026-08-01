@@ -1,0 +1,490 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "Scenario_ch_00700_01_en"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "en"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = 5658257373986601477
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (58 items)
+   0 int size = 58
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3174354944
+     1 string m_Localized = "But there are people who're saying they <i>definitely</i> saw it. They said it was in the west, so it probably means..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3182743552
+     1 string m_Localized = "They expect us to take something like <i>THAT</i> down?!\nNOPE! Not happpening!\nWe've got people like Garr and Mio here in the Alliance! Let <i>them</i> handle it!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3182743553
+     1 string m_Localized = "But, we should probably go with them at least."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3182743554
+     1 string m_Localized = "What's wrong?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3182743555
+     1 string m_Localized = "Oh, Sir Nowa. There're reports that a dragon's been sighted."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937856
+     1 string m_Localized = "Apparently it's behaving strangely. A hunter ran into it in the forest, but it didn't attack him. It only acted aggressively when he tried to approach."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937857
+     1 string m_Localized = "I see. Should probably look into this. Do we know where it is?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937858
+     1 string m_Localized = "Yeah, it’s in that dungeon, or rather, that '<ruby=Highway>Ruined Road</ruby>'?? path thing that the Guardians used."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937859
+     1 string m_Localized = "That's what the reports are saying, sir."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937860
+     1 string m_Localized = "I see. Understood."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937861
+     1 string m_Localized = "Thank you for taking care of this, sir."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937862
+     1 string m_Localized = "One other thing, the hunter who reported the sighting mentioned a glow that looked like Raw Lens. You might want to take along an expert on that."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937863
+     1 string m_Localized = "A Raw Lens... Who would know the most about that?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937864
+     1 string m_Localized = "I overheard you guys talking. A dragon imbued with a Raw Lens... very intriguing."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937865
+     1 string m_Localized = "Could you bring me along when you go to investigate?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937866
+     1 string m_Localized = "That's the dragon we heard about..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937867
+     1 string m_Localized = "GRAAAWWWR!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937868
+     1 string m_Localized = "WHOA!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [18]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937869
+     1 string m_Localized = "I don't think it likes anyone getting close... We should probably keep our distance."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937870
+     1 string m_Localized = "That’s... lens-shine...?\nBut something's wrong..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [20]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937871
+     1 string m_Localized = "If only we had an expert about this stuff..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [21]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937872
+     1 string m_Localized = "That’s... lens-shine...?\nBut something's wrong..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [22]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937873
+     1 string m_Localized = "I guess I should've brought Code L along."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [23]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937874
+     1 string m_Localized = "Whoooa... That shine..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [24]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937875
+     1 string m_Localized = "Oooh, so that's it... Raw Lens-synthesis."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [25]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937876
+     1 string m_Localized = "'<i>Raw Lens-synthesis</i>'...?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [26]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937877
+     1 string m_Localized = "Raw Lenses are masses of pure condensed magic. It’s what powers our Rune Lenses."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [27]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937878
+     1 string m_Localized = "In today’s world, we only know how to use them as a power source. But the technology to craft Rune Lenses from these Raw Lenses must've existed in the past."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [28]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937879
+     1 string m_Localized = "One theory is that the people who built the RUNE Runebarrows possessed that technology."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [29]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937880
+     1 string m_Localized = "Anyway, these Raw Lenses naturally form in the ground. Or, in rare cases, inside living creatures."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [30]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937881
+     1 string m_Localized = "S-so... the reason the dragon is shining is..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [31]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937882
+     1 string m_Localized = "No doubt about it, Raw Lens-synthesis has occured inside its body. There's just one problem..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [32]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937883
+     1 string m_Localized = "There's a problem?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [33]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937884
+     1 string m_Localized = "GRAAAWWWR!!!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [34]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937885
+     1 string m_Localized = "IT'S GONE BERSERK!! IT'S COMING RIGHT FOR US!!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [35]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937886
+     1 string m_Localized = "Did we beat it...?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [36]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937887
+     1 string m_Localized = "No. It would be the height of arrogance to think we could defeat a <i>dragon</i>. Especially one that's imbued with a Raw Lens."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [37]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937888
+     1 string m_Localized = "It probably just needed an outlet for all of the anger and aggression that was welling up from deep inside of it."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [38]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937889
+     1 string m_Localized = "And there’s your proof. Look...\nIt’s calmed down a little. I think the Raw Lens has finally intergrated with its body."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [39]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937890
+     1 string m_Localized = "Intergrated...?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [40]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937891
+     1 string m_Localized = "As I was saying, one of the side effects of Raw Lens-synthesis is that it triggers a kind of power surge in the host."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [41]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937892
+     1 string m_Localized = "But a suitibly strong host could absorb some of that power, and use it to suppress the power surge. The bigger and tougher the host, the more room that power has to grow."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [42]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937893
+     1 string m_Localized = "That said, as long as the Raw Lens remains in its body, there's always a chance that the dragon could lose control again."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [43]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937894
+     1 string m_Localized = "So it has to live with that forever?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [44]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937895
+     1 string m_Localized = "...?!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [45]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937896
+     1 string m_Localized = "What's this reaction...!?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [46]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937897
+     1 string m_Localized = "O Third-Born One... You have saved a child of my line. You have my gratitude."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [47]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937898
+     1 string m_Localized = "......!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [48]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937899
+     1 string m_Localized = "Nowa’s Lens absorbed the Raw Lens...!?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [49]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937900
+     1 string m_Localized = "Grawww."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [50]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937901
+     1 string m_Localized = "Whoa! Oh, you're feeling better already!\nGood boy. Good dragon. My name is Nowa."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [51]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937902
+     1 string m_Localized = "Grawwrawww."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [52]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937903
+     1 string m_Localized = "Hmm? Oh, I see. Your name's <i>Chandra</i>?\nFemale...? You're a girl dragon!?\nSorry if we hurt you earlier."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [53]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3186937904
+     1 string m_Localized = "Uhhh... heyyy... Nowa...?\nWhy are you talking to yourself?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [54]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3191132160
+     1 string m_Localized = "I'm not really sure how to explain it, but... When I touched Chandra's Lens, I felt like I could sense what she was thinking."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [55]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3191132161
+     1 string m_Localized = "Or maybe I was just imagining things..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [56]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3191132162
+     1 string m_Localized = "Graw rawww."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [57]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3191132163
+     1 string m_Localized = "Huh? You wanna join us, Chandra?!\nWelcome to the team!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0
