@@ -758,7 +758,7 @@
    [92]
     0 TableEntryData data
      0 SInt64 m_Id = 3962884101
-     1 string m_Localized = ""
+     1 string m_Localized = "MS07. Line [114]. The party has just arrived at the "Eldroad" dungeon map. Marisa announces that the Forest Highway is just up ahead, and it'll take them to the Guardian City of Yarnaan. The speaker exclaims "Highway??" in confusion, because she's literally saying Highway in katakana. "
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
