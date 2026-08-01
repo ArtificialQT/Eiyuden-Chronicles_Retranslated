@@ -886,7 +886,7 @@
    [108]
     0 TableEntryData data
      0 SInt64 m_Id = 3052720159
-     1 string m_Localized = "To access the Forest Highway, first you need to head south from here, cross the bridge, and then head north."
+     1 string m_Localized = "To access the Forest <ruby=Highway>Ruined Road</ruby>, first you need to head south from here, cross the bridge, and then head north."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -910,7 +910,7 @@
    [111]
     0 TableEntryData data
      0 SInt64 m_Id = 3052720162
-     1 string m_Localized = "We shall meet in Norristar."
+     1 string m_Localized = "We shall reconvene in Norristar."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -926,7 +926,7 @@
    [113]
     0 TableEntryData data
      0 SInt64 m_Id = 3052720164
-     1 string m_Localized = "Oh, there is a forest ruins road ahead. If you go through there, you can get to Yarnaan, our Guardian city, near Norrstar."
+     1 string m_Localized = "Yup. Up head is the Forest <ruby=Highway>Ruined Road</ruby>. It'll take you to the Guardian City of Yarnaan. Norristar's just a little further on from there."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -934,7 +934,7 @@
    [114]
     0 TableEntryData data
      0 SInt64 m_Id = 3052720165
-     1 string m_Localized = "The trail?"
+     1 string m_Localized = "'<ruby=Highway>Ruined Road</ruby>'??"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -942,7 +942,7 @@
    [115]
     0 TableEntryData data
      0 SInt64 m_Id = 3052720166
-     1 string m_Localized = "Yes, it is within the realm of the guardians in this great forest."
+     1 string m_Localized = "Yes. It lies within the realm of the Guardians of this great wood."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -950,7 +950,7 @@
    [116]
     0 TableEntryData data
      0 SInt64 m_Id = 3052720167
-     1 string m_Localized = "It is our duty to protect the ruins of Rune."
+     1 string m_Localized = "It is our sworn duty to protect the Runebarrows."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -958,7 +958,7 @@
    [117]
     0 TableEntryData data
      0 SInt64 m_Id = 3056914432
-     1 string m_Localized = "It is said that the Ruins Road was once part of the Rune Ruins, and now we use it to send out surveillance and reconnaissance to many places."
+     1 string m_Localized = "It is said that the <ruby=Highway>Ruined Road</ruby> was once part of the RUNE Runebarrow. These days, we mostly use it to monitor and patrol many key sites across the region."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -966,7 +966,7 @@
    [118]
     0 TableEntryData data
      0 SInt64 m_Id = 3056914433
-     1 string m_Localized = "Well, it's a convenient loophole, I guess."
+     1 string m_Localized = "It's a handy way to get around, at least."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -974,7 +974,7 @@
    [119]
     0 TableEntryData data
      0 SInt64 m_Id = 3056914434
-     1 string m_Localized = "Well, it's a convenient loophole, but it's also home to a few monsters. Be prepared for that."
+     1 string m_Localized = "That said, it's home to a few monsters. So be prepared to encounter some."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -982,7 +982,7 @@
    [120]
     0 TableEntryData data
      0 SInt64 m_Id = 3056914435
-     1 string m_Localized = "Oh, okay. I'm curious to see what the Empire is up to. Let's hurry."
+     1 string m_Localized = "Alright, understood. I'm worried about what the Empire's up to. Let's hurry."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -990,7 +990,7 @@
    [121]
     0 TableEntryData data
      0 SInt64 m_Id = 3056914436
-     1 string m_Localized = "Oh, ......."
+     1 string m_Localized = "Agreed."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -998,7 +998,7 @@
    [122]
     0 TableEntryData data
      0 SInt64 m_Id = 3056914437
-     1 string m_Localized = "I'm not gonna let them get away with this."
+     1 string m_Localized = "Whatever they're doing, I'm not letting them get away with it!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
