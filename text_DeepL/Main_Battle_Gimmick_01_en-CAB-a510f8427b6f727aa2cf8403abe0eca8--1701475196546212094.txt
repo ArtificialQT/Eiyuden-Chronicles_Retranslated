@@ -1206,7 +1206,7 @@
    [148]
     0 TableEntryData data
      0 SInt64 m_Id = 3514093599
-     1 string m_Localized = "Oh, no, did he see that?"
+     1 string m_Localized = "Not good. Did it spot us?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1222,7 +1222,7 @@
    [150]
     0 TableEntryData data
      0 SInt64 m_Id = 3514093601
-     1 string m_Localized = "A dragon cub. It's making this area its home!"
+     1 string m_Localized = "A juvenile dragon! It's claimed this part of the woods as its territory!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1230,7 +1230,7 @@
    [151]
     0 TableEntryData data
      0 SInt64 m_Id = 3514093602
-     1 string m_Localized = "A child that big?"
+     1 string m_Localized = "Juveniles are that large??"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1238,7 +1238,7 @@
    [152]
     0 TableEntryData data
      0 SInt64 m_Id = 3514093603
-     1 string m_Localized = "Even if it's a child, it's a dragon species! You can't let your guard down, or you'll die!"
+     1 string m_Localized = "It may be a juvenile, but it's still a <i>dragon</i>!\nDon't underestimate it, or you're dead!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1246,7 +1246,7 @@
    [153]
     0 TableEntryData data
      0 SInt64 m_Id = 3514093604
-     1 string m_Localized = "That's enough chitchat. It's coming!"
+     1 string m_Localized = "Talk time's over! HERE IT COMES!!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1254,7 +1254,7 @@
    [154]
     0 TableEntryData data
      0 SInt64 m_Id = 3514093605
-     1 string m_Localized = "Damn it, the attack can't reach him at that height! We've got to pull him down somehow."
+     1 string m_Localized = "Damn it, our attack can't reach it up there!\nWe need to ground it!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1262,7 +1262,7 @@
    [155]
     0 TableEntryData data
      0 SInt64 m_Id = 3514093606
-     1 string m_Localized = "That height is too high for the attackers to reach us. We've got to drag him down somehow. ......"
+     1 string m_Localized = "It's too high for our attacks to reach it. We've got to drag it down somehow..."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
