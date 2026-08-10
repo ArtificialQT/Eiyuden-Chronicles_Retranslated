@@ -766,7 +766,7 @@
    [93]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497372
-     1 string m_Localized = "I think we're almost at the exit."
+     1 string m_Localized = "I wonder if we're almost at the exit."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
