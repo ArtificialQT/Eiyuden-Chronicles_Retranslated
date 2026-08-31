@@ -942,7 +942,7 @@
    [115]
     0 TableEntryData data
      0 SInt64 m_Id = 3052720166
-     1 string m_Localized = "Yes. It lies within the realm of the Guardians of this great wood."
+     1 string m_Localized = "Yes. It lies within the domain of the Guardians of this Great Wood."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1022,7 +1022,7 @@
    [125]
     0 TableEntryData data
      0 SInt64 m_Id = 3056914440
-     1 string m_Localized = "So this what a Guardian city like?"
+     1 string m_Localized = "So this a Guardian city?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1030,7 +1030,7 @@
    [126]
     0 TableEntryData data
      0 SInt64 m_Id = 3056914441
-     1 string m_Localized = "Entity confirmed: Marisa."
+     1 string m_Localized = "Entity confirmed: Miss Marisa."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1086,7 +1086,7 @@
    [133]
     0 TableEntryData data
      0 SInt64 m_Id = 3056914448
-     1 string m_Localized = "That's them. We're still not sure if they've decided to cooperate, but... given the timing of this..."
+     1 string m_Localized = "Probably. We're still not sure if they've decided to cooperate, but... given the timing of this..."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1110,7 +1110,7 @@
    [136]
     0 TableEntryData data
      0 SInt64 m_Id = 3056914451
-     1 string m_Localized = "As will I.\nI am well aware of the fact that you have only just returned, but I would ask that you join us."
+     1 string m_Localized = "As will I.\nI am well aware of the fact that you have only just returned, but I would ask that you join us, Miss Marisa."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1166,7 +1166,7 @@
    [143]
     0 TableEntryData data
      0 SInt64 m_Id = 3056914458
-     1 string m_Localized = "Hey now, you're calling humans foolish? Bold words coming fromn a monster.\nI'm amazed you're even capable of speech."
+     1 string m_Localized = "Hey now, you calling humans foolish? Bold words coming fromn a monster.\nI'm amazed you're even capable of speech."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1174,7 +1174,7 @@
    [144]
     0 TableEntryData data
      0 SInt64 m_Id = 3056914459
-     1 string m_Localized = "WAH-HAH-HAH-HAH-HAH! You stand before <i>Markus</i>, <i>King of the Undead</i>!\nRejoice, for I shall grant you <i>wretched humans</i> the honour of serving me for the rest of your miserable lives!"
+     1 string m_Localized = "WAH-HAH-HAH-HAH-HAH!\nYou stand before <i>Markus</i>, <i>King of the Undead</i>!\nRejoice, for I shall grant you <i>wretched humans</i> the honour of serving me for the rest of your miserable lives!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1182,7 +1182,7 @@
    [145]
     0 TableEntryData data
      0 SInt64 m_Id = 3056914460
-     1 string m_Localized = "Show your gratitude, and <i>submit</i>! Surely, you'd recognise this <i>great</i> honour!"
+     1 string m_Localized = "Show your gratitude, and <i>submit</i>!\nSurely, you'd recognise this <i>great</i> honour!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1214,7 +1214,7 @@
    [149]
     0 TableEntryData data
      0 SInt64 m_Id = 3056914464
-     1 string m_Localized = "It matters not either way. However, I understand that it may be difficult for mere <i>apes</i> and <i>knife-ears</i> to fail to comprehend the wisdom I have amassed over the ages. Very well, I shall explain it in terms simple enough for even your feeble minds."
+     1 string m_Localized = "It matters not either way. However, I understand that it may be difficult for mere <i>apes</i> and <i>knife-ears</i> to comprehend the wisdom I have amassed over the ages. Very well, I shall explain it in terms simple enough for even your feeble minds."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1294,7 +1294,7 @@
    [159]
     0 TableEntryData data
      0 SInt64 m_Id = 3061108737
-     1 string m_Localized = "You stand before Nowa, King of the Alliance!"
+     1 string m_Localized = "YOU STAND BEFORE NOWA, KING OF THE ALLIANCE!!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1310,7 +1310,7 @@
    [161]
     0 TableEntryData data
      0 SInt64 m_Id = 3061108739
-     1 string m_Localized = "I am no mere Undead. You stand before the <u>King</u> of the Undead, the <i>Skeleton King</i>!"
+     1 string m_Localized = "I am no mere Undead. You stand before the <i>King</i> of the Undead, the <i>Skeleton King</i>!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1390,7 +1390,7 @@
    [171]
     0 TableEntryData data
      0 SInt64 m_Id = 3061108749
-     1 string m_Localized = "You stand before Nowa, King of the Alliance!"
+     1 string m_Localized = "YOU STAND BEFORE NOWA, KING OF THE ALLIANCE!!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1430,7 +1430,7 @@
    [176]
     0 TableEntryData data
      0 SInt64 m_Id = 3061108754
-     1 string m_Localized = "I'm <i>telling</i> you to <i>submit</i> to me!"
+     1 string m_Localized = "I'm telling you to <i>SUBMIT</i> to me!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1502,7 +1502,7 @@
    [185]
     0 TableEntryData data
      0 SInt64 m_Id = 3061108763
-     1 string m_Localized = "UWAAH! My beloved subjects! How <i>could</i> you!?"
+     1 string m_Localized = "UWAAH! My beloved subjects! How <i>COULD</i> you!?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1734,7 +1734,7 @@
    [214]
     0 TableEntryData data
      0 SInt64 m_Id = 3065303057
-     1 string m_Localized = "What the hell was <i>that</i> all about?"
+     1 string m_Localized = "What the hell was <i>THAT</i> all about?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1774,7 +1774,7 @@
    [219]
     0 TableEntryData data
      0 SInt64 m_Id = 3065303062
-     1 string m_Localized = "Maybe he was just overconfident. Heh."
+     1 string m_Localized = "Maybe he was just overconfident. Heh heh heh."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1846,7 +1846,7 @@
    [228]
     0 TableEntryData data
      0 SInt64 m_Id = 3065303071
-     1 string m_Localized = "So, you're... uh... <i>King</i> Nowa of the Alliance, huh?"
+     1 string m_Localized = "So, you're... uh... <i>King Nowa</i> of the Alliance, huh?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1862,7 +1862,7 @@
    [230]
     0 TableEntryData data
      0 SInt64 m_Id = 3065303073
-     1 string m_Localized = "Mm-hmm, mm-hmm. Now that's a face worthy of a King, alright."
+     1 string m_Localized = "Mm-hmm, mm-hmm. Now <i>THAT'S</i> a face worthy of a King, alright."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1910,7 +1910,7 @@
    [236]
     0 TableEntryData data
      0 SInt64 m_Id = 3065303079
-     1 string m_Localized = "Ha ha ha! No worries!\nI'm Wayve. I'm in charge of the Guardians' Response Unit."
+     1 string m_Localized = "HAH HAH HAH! No worries!\nI'm Wayve. I'm in charge of the Guardians' Response Unit."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1934,7 +1934,7 @@
    [239]
     0 TableEntryData data
      0 SInt64 m_Id = 3065303082
-     1 string m_Localized = "Please tell me more about it later, Marisa."
+     1 string m_Localized = "Please tell me all about it later, Miss Marisa."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1966,7 +1966,7 @@
    [243]
     0 TableEntryData data
      0 SInt64 m_Id = 3065303086
-     1 string m_Localized = "Wayve is the leader of the younnger generation of Guardians, so we all look up to him like a big brother."
+     1 string m_Localized = "Wayve is the leader of the younger generation of Guardians, so we all look up to him like a big brother."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2030,7 +2030,7 @@
    [251]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497349
-     1 string m_Localized = "Welcome, I've heard about you from Wave, Lord Noah of the Alliance."
+     1 string m_Localized = "Well met, Lord Nowa of the Alliance. Wayve has told me much about you."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2038,7 +2038,7 @@
    [252]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497350
-     1 string m_Localized = "I'm sorry I got you into trouble as soon as I arrived, but you've shown me your skills, and I can see that you're quite good."
+     1 string m_Localized = "Sorry you got dragged into that mess when you'd only just arrived.\nBut I got to see you in action. You're quite the fighter."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2046,7 +2046,7 @@
    [253]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497351
-     1 string m_Localized = "I got myself into a lot of trouble as soon as I arrived, but you've shown me that you're very good at what you do."
+     1 string m_Localized = "Sorry you got dragged into that mess when you'd only just arrived.\nBut I got to see you in action. You fought with real spirit."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2054,7 +2054,7 @@
    [254]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497352
-     1 string m_Localized = "So, you said the imperial army is on the move?"
+     1 string m_Localized = "I understand you’ve seen signs of Imperial movement?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2062,7 +2062,7 @@
    [255]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497353
-     1 string m_Localized = "Yes, it is the duty of us Guardians to protect the ruins of the runes within the guarded territory of this great forest."
+     1 string m_Localized = "Yes. It is our duty as Guardians to protect the RUNE Runebarrows within our domain of this Great Wood."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2070,7 +2070,7 @@
    [256]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497354
-     1 string m_Localized = "The territory of Northphalia, which was previously transferred from the Confederation of Nations to the Empire, is partly within it."
+     1 string m_Localized = "Part of it overlaps with the Norsfarian Territory that the League of Nations recently ceded over to the Empire."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2078,7 +2078,7 @@
    [257]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497355
-     1 string m_Localized = "That's how the scouting patrol came to find the Imperial troops massing there."
+     1 string m_Localized = "And that's how one of our scouting patrols ended up spotting the Imperial Army massing troops there."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2086,7 +2086,7 @@
    [258]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497356
-     1 string m_Localized = "And then there's the undead story I mentioned earlier."
+     1 string m_Localized = "And then there's the Undead problem now too."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2094,7 +2094,7 @@
    [259]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497357
-     1 string m_Localized = "We have also received news from our elven village. It is outside the realm, but there are people searching for something."
+     1 string m_Localized = "We've also received word from our elven village.\nThey sighted a group conducting some kind of search, just outside of their domain."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2102,7 +2102,7 @@
    [260]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497358
-     1 string m_Localized = "Huh. ...... Rakian's guy also said he's going to go out of his way to let Rilun know, not me. ......"
+     1 string m_Localized = "*Sigh*... Of course Lakian goes out of his way to send that info to Lilwn, instead of me."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2110,7 +2110,7 @@
    [261]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497359
-     1 string m_Localized = "You don't trust me?"
+     1 string m_Localized = "Does he really not trust me??"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2118,7 +2118,7 @@
    [262]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497360
-     1 string m_Localized = "It was coming to you, but you didn't see it, right Aru?"
+     1 string m_Localized = "He sent it to you too, you know? You just didn't read it."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2126,7 +2126,7 @@
    [263]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497361
-     1 string m_Localized = "I think the troop that attacked the hidden village of Yael and the others is the troop that said they were searching for that something."
+     1 string m_Localized = "The force that's conducting the search is probably the same one that attacked Yaelu's village."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2134,7 +2134,7 @@
    [264]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497362
-     1 string m_Localized = "Mr. Sey: ......"
+     1 string m_Localized = "Mister Seign..."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2142,7 +2142,7 @@
    [265]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497363
-     1 string m_Localized = "The hidden village ...... was rumored to have happened, but it was out of the Guardian's domain."
+     1 string m_Localized = "The Hidden Village... we'd caught wind that something was happening out there.\nBut it was outside the domain of our Guardians."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2150,7 +2150,7 @@
    [266]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497364
-     1 string m_Localized = "I'm sorry."
+     1 string m_Localized = "I'm sorry for your loss."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2158,7 +2158,7 @@
    [267]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497365
-     1 string m_Localized = "I'm sorry. The attack on Yael and the others' hidden village was probably a unit that was searching for something like that."
+     1 string m_Localized = "The force that's conducting the search is probably the same one that attacked Yaelu's village."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2166,7 +2166,7 @@
    [268]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497366
-     1 string m_Localized = "The hidden village ...... was rumored to have happened, but it was outside the Guardian's domain."
+     1 string m_Localized = "The Hidden Village... we'd caught wind that something was happening out there.\nBut it was outside the domain of our Guardians."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2174,7 +2174,7 @@
    [269]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497367
-     1 string m_Localized = "I'm sorry."
+     1 string m_Localized = "It's regretful what happened."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2182,7 +2182,7 @@
    [270]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497368
-     1 string m_Localized = "It was probably the same people who attacked our hidden village."
+     1 string m_Localized = "Those are probably the same people who attacked our Hidden Village."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2190,7 +2190,7 @@
    [271]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497369
-     1 string m_Localized = "The hidden village ...... was rumored to have such a thing, but it was outside the Guardian's domain."
+     1 string m_Localized = "The Hidden Village... we'd caught wind that something was happening out there.\nBut it was outside the domain of our Guardians."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2198,7 +2198,7 @@
    [272]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497370
-     1 string m_Localized = "Sorry."
+     1 string m_Localized = "I'm sorry for your loss."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2206,7 +2206,7 @@
    [273]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497371
-     1 string m_Localized = "Probably the same people who attacked our hidden village."
+     1 string m_Localized = "That's probably the same group that attacked my Hidden Village."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2214,7 +2214,7 @@
    [274]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497372
-     1 string m_Localized = "The hidden village ...... was rumored to have happened, but it was outside the Guardian's domain."
+     1 string m_Localized = "The Hidden Village... we'd caught wind that something was happening out there.\nBut it was outside the domain of our Guardians."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2222,7 +2222,7 @@
    [275]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497373
-     1 string m_Localized = "I'm sorry."
+     1 string m_Localized = "I'm sorry for your loss."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2230,7 +2230,7 @@
    [276]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497374
-     1 string m_Localized = "There have been a lot of suspicious things like that. I asked Melisa and Garou to stand as my messengers."
+     1 string m_Localized = "With so many suspicious matters arising, I decided to dispatch Marisa and Garoo as envoys."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2238,7 +2238,7 @@
    [277]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497375
-     1 string m_Localized = "If the Empire is going to attack in earnest, we, the Guardians and the Nor'easters, can't take them on alone."
+     1 string m_Localized = "If the Empire were to launch a full-scale invasion, we wouldn't stand a chance against them. Even if we combined our Guardian forces with Norristar."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2246,7 +2246,7 @@
    [278]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497376
-     1 string m_Localized = "We must gather the strength of the coalition of nations ......."
+     1 string m_Localized = "We'll need the combined strength of the whole League."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2254,7 +2254,7 @@
    [279]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497377
-     1 string m_Localized = "I didn't think you were the type to think about that kind of thing."
+     1 string m_Localized = "Hadn't pegged you as the type to think about that kinda stuff."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2262,7 +2262,7 @@
    [280]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497378
-     1 string m_Localized = "Haha, it would be best if we could live comfortably, but we can't say that."
+     1 string m_Localized = "Haha!\nI'd much rather just kick back and enjoy the easy life. But I don't have that luxury anymore."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2270,7 +2270,7 @@
    [281]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497379
-     1 string m_Localized = "Well, you have to think and fight for a carefree life."
+     1 string m_Localized = "If I wanna have that easy life, I'm gonna have to think and fight for it."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2278,7 +2278,7 @@
    [282]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497380
-     1 string m_Localized = "So, what about us?"
+     1 string m_Localized = "So where do we come in?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2286,7 +2286,7 @@
    [283]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497381
-     1 string m_Localized = "If you go out the west gate and head southwest, you will find Aslavat, the capital of Norstar. There you can meet with the monarch, Salas Berlant."
+     1 string m_Localized = "If you exit via the west gate and head southwest, you will find Athrabalt, the capital of Norristar. You should seek an audience with their monarch, Sallas Baelrant."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2294,7 +2294,7 @@
    [284]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497382
-     1 string m_Localized = "I have already spoken with him. Noah as leader of the Alliance, Melisa from the Guardians, and Aru as emissary from the Elven village."
+     1 string m_Localized = "I've already informed them we'll be sending emissaries:\nNowa as leader of the Alliance,\nMarisa as the representative of the Guardians,\nand Alwe as an envoy from the Elven village."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2302,7 +2302,7 @@
    [285]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497383
-     1 string m_Localized = "Hmmm, Wave is working just fine."
+     1 string m_Localized = "Oh, look at you, Wayve. You're actually pulling your weight."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2310,7 +2310,7 @@
    [286]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497384
-     1 string m_Localized = "I'm telling you, I'm a man of my word. You'll love it, won't you?"
+     1 string m_Localized = "You know me. I deliver when it counts.\nThat’s why you love me!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2318,7 +2318,7 @@
    [287]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497385
-     1 string m_Localized = "P-pooh!"
+     1 string m_Localized = "Puu-pooh!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2326,7 +2326,7 @@
    [288]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691648
-     1 string m_Localized = "Also, Nilu should go with me. I'm Melisa's chaperone."
+     1 string m_Localized = "Oh, Nil will be going too. As Marisa's chaperone."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2334,7 +2334,7 @@
    [289]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691649
-     1 string m_Localized = "Am I right?"
+     1 string m_Localized = "Are you certain I am adequate for this task?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2342,7 +2342,7 @@
    [290]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691650
-     1 string m_Localized = "Well, you should see some of the outside world. Well, you should see what's out there and maybe you'll learn something."
+     1 string m_Localized = "Why not? You need to get out and explore the outside world more anyway.\nWho knows, maybe you'll learn something about yourself along the way."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2350,7 +2350,7 @@
    [291]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691651
-     1 string m_Localized = "Thank you very much. Thank you, Melisa."
+     1 string m_Localized = "Thank you very much. I look forward to traveling with you, Miss Marisa."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2358,7 +2358,7 @@
    [292]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691652
-     1 string m_Localized = "So, just call me Melisa. We're friends, you know."
+     1 string m_Localized = "I told you, just Marisa is fine. We're friends, right?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2366,7 +2366,7 @@
    [293]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691653
-     1 string m_Localized = "Yes, Melisa. Oh, ......."
+     1 string m_Localized = "Yes, Miss Marisa.\nAack..."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2374,7 +2374,7 @@
    [294]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691654
-     1 string m_Localized = "You're not going, are you, Wave?"
+     1 string m_Localized = "You're not going, Wayve?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2382,7 +2382,7 @@
    [295]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691655
-     1 string m_Localized = "Melisa may be young, but I'm sure she'll agree that she's a Guardian warrior."
+     1 string m_Localized = "Yeah. Marisa may be young, she's a valiant warrior of the Guardians.\nThey'll respect that."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2390,7 +2390,7 @@
    [296]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691656
-     1 string m_Localized = "I also have to go after the undead and get a better idea of the Imperial Guard's movements."
+     1 string m_Localized = "Besides, I have to track down those Undead from earlier. And I'd also like to get a better read on the Imperial Army's movements."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2398,7 +2398,7 @@
    [297]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691657
-     1 string m_Localized = "I'll help you with that."
+     1 string m_Localized = "I see. I <i>guess</i> I could give you a hand with that."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2406,7 +2406,7 @@
    [298]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691658
-     1 string m_Localized = "I'll help you with the Noorstar, Melisa, and the Alliance's Noah, please."
+     1 string m_Localized = "Now then, we're entrusting Norristar negotiations to you, Marisa.\nAnd we'll be counting on your support in this matter, Lord Nowa of the Alliance."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2422,7 +2422,7 @@
    [300]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691660
-     1 string m_Localized = "Let's go, Noah."
+     1 string m_Localized = "Let's be off, Nowa."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2430,7 +2430,7 @@
    [301]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691661
-     1 string m_Localized = "Well, good to see you again, Noah."
+     1 string m_Localized = "I'm glad we get to travel together again, Nowa."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2438,7 +2438,7 @@
    [302]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691662
-     1 string m_Localized = "My name is Nir. I'm Nir, your name is Noah."
+     1 string m_Localized = "My name is Nil. I am pleased to meet you, Mister Nowa."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2446,7 +2446,7 @@
    [303]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691663
-     1 string m_Localized = "Nil, are you a Guardian, too?"
+     1 string m_Localized = "Umm, are you a Guardian too, Miss Nil?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2774,7 +2774,7 @@
    [344]
     0 TableEntryData data
      0 SInt64 m_Id = 3077885963
-     1 string m_Localized = "I'm so glad you're here, Dad. So I just wanted to make sure."
+     1 string m_Localized = "I'm so glad you're here, Dad. So I just wanted to make sure you're <i>actually</i> here."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2806,7 +2806,7 @@
    [348]
     0 TableEntryData data
      0 SInt64 m_Id = 3077885967
-     1 string m_Localized = "GUARDIANVILLAGE Line 66 Wait... Y-you You didn’t hear any of that, did ya?\nAah, no... it was nothing... Nothing at all."
+     1 string m_Localized = "GUARDIANVILLAGE Line 66 W-w-wait... Y-you You didn’t hear any of that, did ya?\nAah, no... ya didn't hear nothing...\nNope. Nothing at all."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
