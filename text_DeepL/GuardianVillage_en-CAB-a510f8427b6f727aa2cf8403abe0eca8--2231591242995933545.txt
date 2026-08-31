@@ -550,7 +550,7 @@
    [66]
     0 TableEntryData data
      0 SInt64 m_Id = 27736581777641473
-     1 string m_Localized = "Wait... Y-you You didn’t hear any of that, did ya?\nAah, no... it was nothing... Nothing at all."
+     1 string m_Localized = "W-w-wait... Y-you You didn’t hear any of that, did ya?\nAah, no... ya didn't hear nothing...\nNope. Nothing at all."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
