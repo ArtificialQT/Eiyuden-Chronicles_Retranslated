@@ -1022,7 +1022,7 @@
    [125]
     0 TableEntryData data
      0 SInt64 m_Id = 3056914440
-     1 string m_Localized = "So this a Guardian city?"
+     1 string m_Localized = "So <i>this</i> a Guardian city, huh?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2430,7 +2430,7 @@
    [301]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691661
-     1 string m_Localized = "I'm glad we get to travel together again, Nowa."
+     1 string m_Localized = "Glad we get to work together again, Nowa."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2438,7 +2438,7 @@
    [302]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691662
-     1 string m_Localized = "My name is Nil. I am pleased to meet you, Mister Nowa."
+     1 string m_Localized = "My name is Nil. I look forward to our cooperation on this task, Mister Nowa."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2454,7 +2454,7 @@
    [304]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691664
-     1 string m_Localized = "I mean, she doesn't seem to be human. ......"
+     1 string m_Localized = "Or rather, are you even human...?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2462,7 +2462,7 @@
    [305]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691665
-     1 string m_Localized = "She's the one I met in the ruins of the runes."
+     1 string m_Localized = "I found her in a RUNE runebarrow."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2470,7 +2470,7 @@
    [306]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691666
-     1 string m_Localized = "We don't really know what she is, and neither do she herself."
+     1 string m_Localized = "Unfortunately, we don't really know <i>what</i> she is, and neither does she herself."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2478,7 +2478,7 @@
    [307]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691667
-     1 string m_Localized = "Some say she might be a rune golem, but I don't get that feeling."
+     1 string m_Localized = "Some of the others think she might be a <i>Rune Golem</i>, but I don't get that feeling from her."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2486,7 +2486,7 @@
    [308]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691668
-     1 string m_Localized = "I have no memory of my past. When I woke up in the ruins, Melisa was there ......, but I don't know what happened before that."
+     1 string m_Localized = "My memory banks regarding my past are empty. I recall opening my eyes in the runebarrow and seeing Marisa in front of me.\nBut, I am unable to recall anything before that."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2494,7 +2494,7 @@
    [309]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691669
-     1 string m_Localized = "Nir is the same as me. I don't have any family."
+     1 string m_Localized = "Nil is kinda like me. Neither of us have any family."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2502,7 +2502,7 @@
    [310]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691670
-     1 string m_Localized = "I don't know what my parents look like either."
+     1 string m_Localized = "I don't even know what my parents looked like."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2510,7 +2510,7 @@
    [311]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691671
-     1 string m_Localized = "That's right."
+     1 string m_Localized = "I see."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2518,7 +2518,7 @@
    [312]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691672
-     1 string m_Localized = "Pum pum ......"
+     1 string m_Localized = "Pumu-pumu..."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2526,7 +2526,7 @@
    [313]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691673
-     1 string m_Localized = "Melisa and all the Guardians here have accepted me."
+     1 string m_Localized = "Miss Marisa and the Guardians here took me in and accepted me."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2534,7 +2534,7 @@
    [314]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691674
-     1 string m_Localized = "Isn't this place the same as Melisa-san?"
+     1 string m_Localized = "Did they perhaps do the same for Miss Marisa as well?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2542,7 +2542,7 @@
    [315]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691675
-     1 string m_Localized = "Nn............"
+     1 string m_Localized = "Mmh..."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2550,7 +2550,7 @@
    [316]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691676
-     1 string m_Localized = "Hmm. Yeah, I guess so."
+     1 string m_Localized = "Heh. I guess you could say that, yeah."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2558,7 +2558,7 @@
    [317]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691677
-     1 string m_Localized = "So everyone here is my family, and I consider this town my home."
+     1 string m_Localized = "That's why I consider everyone here my family.\nAnd this city, my home."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2566,7 +2566,7 @@
    [318]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691678
-     1 string m_Localized = "Nil, you too."
+     1 string m_Localized = "That includes you, Nil."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2574,7 +2574,7 @@
    [319]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691679
-     1 string m_Localized = "Thank you, Melisa."
+     1 string m_Localized = "I am grateful, Miss Marisa."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2582,7 +2582,7 @@
    [320]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691680
-     1 string m_Localized = "No, I'm not."
+     1 string m_Localized = "No, don't <i>do</i> that."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2590,7 +2590,7 @@
    [321]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691681
-     1 string m_Localized = "No. What?"
+     1 string m_Localized = "Huh?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2598,7 +2598,7 @@
    [322]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691682
-     1 string m_Localized = "Melisa. No, it's not Melisa, it's Nil."
+     1 string m_Localized = "JUST Marisa, Nil. Drop the '<i>Miss</i>'."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2606,7 +2606,7 @@
    [323]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691683
-     1 string m_Localized = "Yes, I'll make an effort."
+     1 string m_Localized = "Understood. I will attempt to adjust my behavior."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2614,7 +2614,7 @@
    [324]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691684
-     1 string m_Localized = "Yes, I'll make an effort. Yes, that's good."
+     1 string m_Localized = "Ha ha! Aww, that's nice."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2622,7 +2622,7 @@
    [325]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691685
-     1 string m_Localized = "I wish brother Rakyan would love me that much."
+     1 string m_Localized = "I wish my big brother Lakian would shower me with affection like that."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2630,7 +2630,7 @@
    [326]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691686
-     1 string m_Localized = "I heard from Mr. Wave that it is difficult because of Lirun's situation."
+     1 string m_Localized = "Wavye has stated that '<i>the whole Lilwn thing</i>' makes things difficult between you 2."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2638,7 +2638,7 @@
    [327]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691687
-     1 string m_Localized = "I still don't understand why, can you give me a lecture?"
+     1 string m_Localized = "However, I still do not understand why that is so. Could you explain it to me?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2646,7 +2646,7 @@
    [328]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691688
-     1 string m_Localized = "Huh? Oh, no, ...... that's ......."
+     1 string m_Localized = "Wha-?? Uhh, no... it's..."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2654,7 +2654,7 @@
    [329]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691689
-     1 string m_Localized = "What do you mean, Alu?"
+     1 string m_Localized = "Is something wrong, Alwe?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2662,7 +2662,7 @@
    [330]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691690
-     1 string m_Localized = "Could it be a love triangle?"
+     1 string m_Localized = "Is this... a <i>LOVE-TRIANGLE</i>??"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2670,7 +2670,7 @@
    [331]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691691
-     1 string m_Localized = "What do you mean, Al?"
+     1 string m_Localized = "Is something wrong, Alwe?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2678,7 +2678,7 @@
    [332]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691692
-     1 string m_Localized = "Yes, I want to know too."
+     1 string m_Localized = "Yes. I would like to know too."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2686,7 +2686,7 @@
    [333]
     0 TableEntryData data
      0 SInt64 m_Id = 3077885952
-     1 string m_Localized = "Oh, well, that ...... brother Rakian seems to like Lilun, but Lilun is my ...... brother."
+     1 string m_Localized = "Umm, well, my big brother Lakian seems to be into Lilwn. But, Lilwn is my-"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2694,7 +2694,7 @@
    [334]
     0 TableEntryData data
      0 SInt64 m_Id = 3077885953
-     1 string m_Localized = "Could it be that this brother Rakyan, you and Lilun are in a love triangle?"
+     1 string m_Localized = "Wait... are you, your brother Lakian, and Lilwn in a <i>LOVE-TRIANGLE</i>??"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2702,7 +2702,7 @@
    [335]
     0 TableEntryData data
      0 SInt64 m_Id = 3077885954
-     1 string m_Localized = "A love triangle? What category is that? I don't remember that?"
+     1 string m_Localized = "A '<i>love-triangle</i>'?\nWhat category of relationship is that? I have no record of such a term in my memory banks."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2710,7 +2710,7 @@
    [336]
     0 TableEntryData data
      0 SInt64 m_Id = 3077885955
-     1 string m_Localized = "What? Triangle?"
+     1 string m_Localized = "Huh? <i>Triangle</i>??"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2718,7 +2718,7 @@
    [337]
     0 TableEntryData data
      0 SInt64 m_Id = 3077885956
-     1 string m_Localized = "No, that ...... Rakian brother seems to like Lilun, but Lilun is my ......"
+     1 string m_Localized = "Umm, well, my big brother Lakian seems to be into Lilwn. But, Lilwn is my-"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2726,7 +2726,7 @@
    [338]
     0 TableEntryData data
      0 SInt64 m_Id = 3077885957
-     1 string m_Localized = "<shake duration=0.4 strength=17.5>Moooo, what are you talking about Aru! Please leave as soon as possible! Also, forget about what just happened, everyone!!!!"
+     1 string m_Localized = "<shake duration=0.4 strength=17.5>Oh my <i>GOD</i>, what are you even saying, Alwe?!\nCan you please just <i>GO</i> already?!?!\nForget this conversation ever happened!!!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2734,7 +2734,7 @@
    [339]
     0 TableEntryData data
      0 SInt64 m_Id = 3077885958
-     1 string m_Localized = "？？？？？"
+     1 string m_Localized = "?????"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2742,7 +2742,7 @@
    [340]
     0 TableEntryData data
      0 SInt64 m_Id = 3077885959
-     1 string m_Localized = "Oh, sorry, sorry! Let's go, guys!"
+     1 string m_Localized = "Oh, s-sorry!\nLet's go, guys!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2750,7 +2750,7 @@
    [341]
     0 TableEntryData data
      0 SInt64 m_Id = 3077885960
-     1 string m_Localized = "It's hard to be human."
+     1 string m_Localized = "Humans are perplexing creatures."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2774,7 +2774,7 @@
    [344]
     0 TableEntryData data
      0 SInt64 m_Id = 3077885963
-     1 string m_Localized = "I'm so glad you're here, Dad. So I just wanted to make sure you're <i>actually</i> here."
+     1 string m_Localized = "I'm so happy you're here, Dad. So I just wanted to make sure you're <i>actually</i> here."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2822,7 +2822,7 @@
    [350]
     0 TableEntryData data
      0 SInt64 m_Id = 3077885969
-     1 string m_Localized = "Alright, let's go, Melisa, Noah, and Nil."
+     1 string m_Localized = "Alright, Marisa, Nowa, Nil! Let's be off!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2830,7 +2830,7 @@
    [351]
     0 TableEntryData data
      0 SInt64 m_Id = 3077885970
-     1 string m_Localized = "Aru-san, you're looking very determined, aren't you?"
+     1 string m_Localized = "You seem quite eager, Mister Alwe."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2838,7 +2838,7 @@
    [352]
     0 TableEntryData data
      0 SInt64 m_Id = 3077885971
-     1 string m_Localized = "If anything, you don't want Nilu to rehash what happened earlier, do you?"
+     1 string m_Localized = "Probably just wants to keep Nil from asking questions about that thing again."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2854,7 +2854,7 @@
    [354]
     0 TableEntryData data
      0 SInt64 m_Id = 3077885973
-     1 string m_Localized = "Poooo."
+     1 string m_Localized = "Poooh."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2862,7 +2862,7 @@
    [355]
     0 TableEntryData data
      0 SInt64 m_Id = 3077885974
-     1 string m_Localized = "Nn, nn, nn!"
+     1 string m_Localized = "Aack, *<i>ahem</i>*!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2870,7 +2870,7 @@
    [356]
     0 TableEntryData data
      0 SInt64 m_Id = 3077885975
-     1 string m_Localized = "You should be able to see Asrabert, the capital of Norstar, if you head southwest out of here."
+     1 string m_Localized = "We should be able to see Norristar's capital, Athrabalt, if we head southwest out of here."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2878,7 +2878,7 @@
    [357]
     0 TableEntryData data
      0 SInt64 m_Id = 3077885976
-     1 string m_Localized = "Yeah, let's go."
+     1 string m_Localized = "Right, let's go."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -7030,7 +7030,7 @@
    [876]
     0 TableEntryData data
      0 SInt64 m_Id = 51267304011681792
-     1 string m_Localized = "DEPRECATED? The Prodigal Renz."
+     1 string m_Localized = "The Prodigal Renz."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
