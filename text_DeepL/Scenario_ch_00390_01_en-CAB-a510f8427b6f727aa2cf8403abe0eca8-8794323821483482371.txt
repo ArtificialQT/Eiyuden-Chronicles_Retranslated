@@ -1,0 +1,250 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "Scenario_ch_00390_01_en"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "en"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = 1720213652793083501
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (28 items)
+   0 int size = 28
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3275018240
+     1 string m_Localized = "Hmm? You lookin' for someone to work your tradin' post?\nHmmmm, reckon there ain't no one better for the job than me."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3283406848
+     1 string m_Localized = "Whoa! And I can see you've made yourself heaps o’ baqua there, yeah? You strike me as someone who could be trusted with money. I'd be glad to work for you!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3283406849
+     1 string m_Localized = "You just hand me the reins, and I’ll light a fire under your earnings."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3283406850
+     1 string m_Localized = "Just gotta flash this charming grin and spin'em a good yarn, and I can sell <i>ANYTHING</i>! HAHAHAHA!!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3283406851
+     1 string m_Localized = "Pleasure’s all mine!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3283406852
+     1 string m_Localized = "What? You ain't needin' my services? Well, I’ll be here when you change your mind."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3287601152
+     1 string m_Localized = "Oh ho, so you need my services now, huh?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3287601153
+     1 string m_Localized = "But I ain't gonna team up with someone I don't know I can trust. Show me you know the game by tradin' your way to 50,000 in net profit. Then I’ll join you, fair?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3287601154
+     1 string m_Localized = "But I ain't gonna team up with someone I don't know I can trust. Show me you know the game by tradin' your way to 30,000 in net profit. Then I’ll join you, fair?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3287601155
+     1 string m_Localized = "But I ain't gonna team up with someone I don't know I can trust. Show me you know the game by tradin' your way to 100,000 in net profit. Then I’ll join you, fair?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3287601156
+     1 string m_Localized = "But I ain't gonna team up with someone I don't know I can trust. Show me you know the game by tradin' your way to 150,000 in net profit. Then I’ll join you, fair?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3287601157
+     1 string m_Localized = "Oh ho, you're back. How’re those profits lookin'?\nThe hell, man, you’ve barely started!? Get out there and earn!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3287601158
+     1 string m_Localized = "How’re those profits lookin'?\nThe hell, man, not even half way there yet!? You gotta work harder!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3287601159
+     1 string m_Localized = "Well look at you, you're halfway there!\nYou're startin' to get the hang of the business, huh? Keep up the good work and earn the rest!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3287601160
+     1 string m_Localized = "HAH HAH! I knew you had it in you! You're almost there!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3287601161
+     1 string m_Localized = "Keep rakin' in those profits like that and I won't be able to resist workin' for ya!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3287601162
+     1 string m_Localized = "Oh ho, how're those profits lookin'?\nLet's see... And the net revenue is... hmmmmmm... about this much..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3287601163
+     1 string m_Localized = "The hell, man, you’ve barely started!? Get out there and earn!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [18]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3287601164
+     1 string m_Localized = "Oh ho, how're those profits lookin'?\nLet's see... And the net revenue is... hmmmmmm... about this much..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3287601165
+     1 string m_Localized = "The hell, man, not even half way there yet!? You gotta work harder!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [20]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3287601166
+     1 string m_Localized = "Oh ho, how're those profits lookin'?\nLet's see... And the net revenue is... hmmmmmm... about this much..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [21]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3287601167
+     1 string m_Localized = "Well look at you, you're halfway there!\nYou're startin' to get the hang of the business, huh? Keep up the good work and earn the rest!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [22]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3287601168
+     1 string m_Localized = "Oh ho, how're those profits lookin'?\nLet's see... And the net revenue is... hmmmmmm... about this much..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [23]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3287601169
+     1 string m_Localized = "HAH HAH! I knew you had it in you! You're almost there!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [24]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3287601170
+     1 string m_Localized = "Keep rakin' in those profits like that and I won't be able to resist workin' for ya!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [25]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3287601171
+     1 string m_Localized = "Oh ho, you've achieved the net profit I told you to! CONGRATS!!\nYou're a bona fide merchant now!\nIf your town's anything like you, I'd sure love to work there."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [26]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3287601172
+     1 string m_Localized = "You just hand me the reins, and I’ll light a fire under your earnings."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [27]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3287601173
+     1 string m_Localized = "Just gotta flash this charming grin and spin'em a good yarn, and I can sell <i>ANYTHING</i>! HAHAHAHA!!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0
