@@ -774,7 +774,7 @@
    [94]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497373
-     1 string m_Localized = "What?"
+     1 string m_Localized = "Wh-what's happening?!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -782,7 +782,7 @@
    [95]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497374
-     1 string m_Localized = "The elders' house is not that way."
+     1 string m_Localized = "The Grandwarden's house isn't that way."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -798,7 +798,7 @@
    [97]
     0 TableEntryData data
      0 SInt64 m_Id = 3069497376
-     1 string m_Localized = "We'd better hurry."
+     1 string m_Localized = "We'd better hurry along then."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
