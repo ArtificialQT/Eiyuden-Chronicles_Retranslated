@@ -774,7 +774,7 @@
    [94]
     0 TableEntryData data
      0 SInt64 m_Id = 2910113819
-     1 string m_Localized = "What the hell is wrong with them?"
+     1 string m_Localized = "Shit... the hell is up with these guys?!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -782,7 +782,7 @@
    [95]
     0 TableEntryData data
      0 SInt64 m_Id = 2910113820
-     1 string m_Localized = "Did you forget the Elder's house?"
+     1 string m_Localized = "Have you forgotten where the Grandwarden lives?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
