@@ -774,7 +774,7 @@
    [94]
     0 TableEntryData data
      0 SInt64 m_Id = 3962884103
-     1 string m_Localized = ""
+     1 string m_Localized = "MS07. Either Line [191], [204], or [205]. I think it appears in the dialogue branch where you lose against Markus. Immediately after you lose, the speaker exclaims, "What is up with these guys?!", "They're too strong!", etc."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -782,7 +782,7 @@
    [95]
     0 TableEntryData data
      0 SInt64 m_Id = 3962884104
-     1 string m_Localized = ""
+     1 string m_Localized = "MS07. Either line [249], or [656]. Unsure exactly when this line appears. It could either appear during the first initial visit to Yarnaan, when Nowa is invited to meet the Guardian Grandwarden (Elder) after fighting off Markus, or, it could be during the 2nd visit to Yarnaan during somekind of attack of siege. Speaker reminds Nowa to go to the Grandwarden's (Elder) house. "Not this way, let's go to the Elder's house." "Aren't we supposed to go to the Elder's house?", etc."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -790,7 +790,7 @@
    [96]
     0 TableEntryData data
      0 SInt64 m_Id = 3962884105
-     1 string m_Localized = ""
+     1 string m_Localized = "MS07. Line [505]. Line is stored out of order. Refer to the line [97] below for more context. Party has just arrived at the ice cave. Alwe confidently tells Rudy that he can leave the rescue to Nowa, Marisa, and himself. Maxim reminds him that he's here too. Speaker joins in and also remarks. "I'm here too!", etc."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -798,7 +798,7 @@
    [97]
     0 TableEntryData data
      0 SInt64 m_Id = 3962884106
-     1 string m_Localized = ""
+     1 string m_Localized = "MS07. Line [506] or [650], but immediately follows line [488]. Not sure where the origin line is stored, but regardless of where its position is in the MS07 script, it actually follows line [488]. Nowa, Marisa, Maxim, and the party have agreed to take on a rescue mission to rescue Rudy's brother and some other children from the nearby ice cave filled with monsters. The party is about to leave Athrabalt. Nowa and Maxim both reassure Rudy that they will definitely rescue the kids. Speaker reminds the party, "Let's hurry", "Yeah, we'd better hurry", etc."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
