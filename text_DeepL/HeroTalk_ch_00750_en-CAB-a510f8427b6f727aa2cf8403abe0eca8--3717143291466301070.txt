@@ -774,7 +774,7 @@
    [94]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691690
-     1 string m_Localized = "I'm sure you're on your way out."
+     1 string m_Localized = "Keep your guard up!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -782,7 +782,7 @@
    [95]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691691
-     1 string m_Localized = "Not this way. Go to the Elder's house!"
+     1 string m_Localized = "Not this way. Please, proceed to the Grandwarden's house!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -790,7 +790,7 @@
    [96]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691692
-     1 string m_Localized = "Oh, um, ...... me too!"
+     1 string m_Localized = "Oh, um... me too!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -798,7 +798,7 @@
    [97]
     0 TableEntryData data
      0 SInt64 m_Id = 3073691693
-     1 string m_Localized = "Oh, I'll hurry! I'll help you with the ！！！！."
+     1 string m_Localized = "YEAH, LET'S MOVE!!\nWe'll save their asses, no matter what!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
