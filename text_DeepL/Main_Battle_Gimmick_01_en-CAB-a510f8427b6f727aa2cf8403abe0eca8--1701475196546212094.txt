@@ -1350,7 +1350,7 @@
    [166]
     0 TableEntryData data
      0 SInt64 m_Id = 3518287880
-     1 string m_Localized = "Wow! What's this ...... frozen ......"
+     1 string m_Localized = "Whoa! What's going on...? I'm frozen solid...!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1358,7 +1358,7 @@
    [167]
     0 TableEntryData data
      0 SInt64 m_Id = 3518287881
-     1 string m_Localized = "Ugh, I can't move. ......"
+     1 string m_Localized = "C-Can't move...!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1366,7 +1366,7 @@
    [168]
     0 TableEntryData data
      0 SInt64 m_Id = 3518287882
-     1 string m_Localized = "There's no need to panic, Noah."
+     1 string m_Localized = "Don't panic, Nowa."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1374,7 +1374,7 @@
    [169]
     0 TableEntryData data
      0 SInt64 m_Id = 3518287883
-     1 string m_Localized = "Swing your body from side to side. That should get you out."
+     1 string m_Localized = "Try shifting your weight from side to side. You should be able to break free."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1382,7 +1382,7 @@
    [170]
     0 TableEntryData data
      0 SInt64 m_Id = 3518287884
-     1 string m_Localized = "Oh, really. ......."
+     1 string m_Localized = "Oh, you're right..."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1390,7 +1390,7 @@
    [171]
     0 TableEntryData data
      0 SInt64 m_Id = 3518287885
-     1 string m_Localized = "That's funny."
+     1 string m_Localized = "You know, that was kinda fun."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1398,7 +1398,7 @@
    [172]
     0 TableEntryData data
      0 SInt64 m_Id = 3518287886
-     1 string m_Localized = "Come on, stop playing with me, Noah."
+     1 string m_Localized = "Hey, quit messing around, Nowa. We have a job to do."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1414,7 +1414,7 @@
    [174]
     0 TableEntryData data
      0 SInt64 m_Id = 3518287888
-     1 string m_Localized = "No, we're going to have to jump over it from the top, frozen solid, he said."
+     1 string m_Localized = "Not quite. We need to slide down from higher up while we're frozen solid. We'll get launched over the gap."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1422,7 +1422,7 @@
    [175]
     0 TableEntryData data
      0 SInt64 m_Id = 3518287889
-     1 string m_Localized = "Are you sure that's the way to do it?"
+     1 string m_Localized = "Are you certain that's a safe way to cross?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1430,7 +1430,7 @@
    [176]
     0 TableEntryData data
      0 SInt64 m_Id = 3518287890
-     1 string m_Localized = "We'll just have to try it."
+     1 string m_Localized = "We'll just have to give it a shot."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1438,7 +1438,7 @@
    [177]
     0 TableEntryData data
      0 SInt64 m_Id = 3518287891
-     1 string m_Localized = "Wow, wow, are you slipping?"
+     1 string m_Localized = "Whoa-! We're actually sliding!<autosubmit=1"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1446,7 +1446,7 @@
    [178]
     0 TableEntryData data
      0 SInt64 m_Id = 3518287892
-     1 string m_Localized = "Wooooooo！！！！"
+     1 string m_Localized = "<shake duration=0.4 strength=17.5>WAAAAAAAAH!<autosubmit=1.25>"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1454,7 +1454,7 @@
    [179]
     0 TableEntryData data
      0 SInt64 m_Id = 3518287893
-     1 string m_Localized = "Wooooooo！！！！"
+     1 string m_Localized = "<shake duration=0.4 strength=17.5>WAAAAAAAAH!<autosubmit=1.25>"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1462,7 +1462,7 @@
    [180]
     0 TableEntryData data
      0 SInt64 m_Id = 3518287894
-     1 string m_Localized = "Wait, wait a minute! Hee!"
+     1 string m_Localized = "W-WAIT!! HOLD ON A SEC!! AIEEEEEEEE!!!<autosubmit=1.5>"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1470,7 +1470,7 @@
    [181]
     0 TableEntryData data
      0 SInt64 m_Id = 3518287895
-     1 string m_Localized = "Ha-ha-ha-ha-ha!"
+     1 string m_Localized = "WAH-HAH-HAH-HAH-HAH!!!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1478,7 +1478,7 @@
    [182]
     0 TableEntryData data
      0 SInt64 m_Id = 3518287896
-     1 string m_Localized = "Oh, this is so funny!"
+     1 string m_Localized = "THAT WAS <i>SO</i> FUN!!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1486,7 +1486,7 @@
    [183]
     0 TableEntryData data
      0 SInt64 m_Id = 3518287897
-     1 string m_Localized = "Oh, give me a break. I thought my heart would stop."
+     1 string m_Localized = "Please, have <i>MERCY</i>!\nI don't think my heart could take it!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1494,7 +1494,7 @@
    [184]
     0 TableEntryData data
      0 SInt64 m_Id = 3518287898
-     1 string m_Localized = "Is this pillar of ice cracked?"
+     1 string m_Localized = "Does this ice pillar have a crack in it?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1502,7 +1502,7 @@
    [185]
     0 TableEntryData data
      0 SInt64 m_Id = 3518287899
-     1 string m_Localized = "Something, if you give it a strong shock: ......"
+     1 string m_Localized = "Maybe... if we hit it hard enough..."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1510,7 +1510,7 @@
    [186]
     0 TableEntryData data
      0 SInt64 m_Id = 3518287900
-     1 string m_Localized = "I guess it won't be scared by a smack, huh?"
+     1 string m_Localized = "I guess just taking a swing at it won't do, huh?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1518,7 +1518,7 @@
    [187]
     0 TableEntryData data
      0 SInt64 m_Id = 3518287901
-     1 string m_Localized = "Pooooooo!"
+     1 string m_Localized = "Puu-puuu..."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
