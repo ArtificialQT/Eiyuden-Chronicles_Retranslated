@@ -1038,7 +1038,7 @@
    [127]
     0 TableEntryData data
      0 SInt64 m_Id = 3967078409
-     1 string m_Localized = "Party encounters Maureus, the "Muscle Mage". Maureus has just destroyed a boulder by bashing it, and explained that he did it with the power of magic. Speaker responds with statements that it's actually just brute force, or amazement, or interest, or dismay/disappointment."
+     1 string m_Localized = "Maureus Recruitment Scenario Party encounters Maureus, the "Muscle Mage". Maureus has just destroyed a boulder by bashing it, and explained that he did it with the power of magic. Speaker responds with statements that it's actually just brute force, or amazement, or interest, or dismay/disappointment."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1054,7 +1054,7 @@
    [129]
     0 TableEntryData data
      0 SInt64 m_Id = 3967078411
-     1 string m_Localized = "Squash (00320) recruitment. Line [25]. Nowa has just handed the sparklestone over to Squash. Squash says he will begin making preperations to open the store in Nowa's city, before getting distracted and lost in ogling the shiny sparklestone "just a little longer... yes... yeesss...". Speaker comments, in the 3rd person, on how Squash is enamoured by the sparkle, or molesting the stone, or really loves what he's doing, etc."
+     1 string m_Localized = "Squash (00320) recruitment Scenario. Line [25]. Nowa has just handed the sparklestone over to Squash. Squash says he will begin making preperations to open the store in Nowa's city, before getting distracted and lost in ogling the shiny sparklestone "just a little longer... yes... yeesss...". Speaker comments, in the 3rd person, on how Squash is enamoured by the sparkle, or molesting the stone, or really loves what he's doing, etc."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1062,7 +1062,7 @@
    [130]
     0 TableEntryData data
      0 SInt64 m_Id = 3967078412
-     1 string m_Localized = "Mariette Recruitment (00500). Line [12]. The party encounters Mariette, the library bookworm girl. She's invited to join the Alliance, and she tries to market herself and her idea of running a library. She flips between getting lost in daydreams and talking like she's answering questions during a job interview. The speaker responds with any kind of praise suitable for their character, possibly commenting like an impressed job interviewer, or mentioning something about Carles University, and so on."
+     1 string m_Localized = "Mariette Recruitment Scenario 00500. Line [12]. The party encounters Mariette, the library bookworm girl. She's invited to join the Alliance, and she tries to market herself and her idea of running a library. She flips between getting lost in daydreams and talking like she's answering questions during a job interview. The speaker responds with any kind of praise suitable for their character, possibly commenting like an impressed job interviewer, or mentioning something about Carles University, and so on."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1078,7 +1078,7 @@
    [132]
     0 TableEntryData data
      0 SInt64 m_Id = 3967078414
-     1 string m_Localized = ""
+     1 string m_Localized = "Foxiel Recruitment Scenario 00600. Line [9]. Party has encountered Foxiel, the traveling お狐さん, fox woman. She's just explained that she's on a personal journey to learn to be a competent cook, in preparation for meeting her destined husband. She's also explained that she is capable with a spear. Speaker comments about her, saying "I can sense strength from her", "She seems unique/unusual", etc."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1086,7 +1086,7 @@
    [133]
     0 TableEntryData data
      0 SInt64 m_Id = 3967078415
-     1 string m_Localized = ""
+     1 string m_Localized = "Foxiel Recruitment Scenario 00600. Line [35]. Alternate branch that is accessed if you encounter Foxiel before recruiting Kurtz, and then go to talk to her again. Mean to grant a hint. Foxiel asks if you've made progress tracking down the dish she's trying to track down from her childhood, and Nowa responds by saying he's still working on it. The speaker reminds him of Kurtz, "why don't you ask Kurtz?", "Don't we have a cook/chef at our place now?"l, etc."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1126,7 +1126,7 @@
    [138]
     0 TableEntryData data
      0 SInt64 m_Id = 3967078420
-     1 string m_Localized = "Isha Recruitment (00850). Line [48]. After completing a task for Isha, and receiving ONLY a stamp as a reward, Isha takes advantage of Nowa's "must help people" nature to strong-arm him into helping with a 2nd task. Nowa agrees. Speaker responds with calling out Nowa. "Hey!", "Wait a second!", "That's just what he's like...", etc."
+     1 string m_Localized = "Isha Recruitment Scenario 00850. Line [48]. After completing a task for Isha, and receiving ONLY a stamp as a reward, Isha takes advantage of Nowa's "must help people" nature to strong-arm him into helping with a 2nd task. Nowa agrees. Speaker responds with calling out Nowa. "Hey!", "Wait a second!", "That's just what he's like...", etc."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1142,7 +1142,7 @@
    [140]
     0 TableEntryData data
      0 SInt64 m_Id = 3967078422
-     1 string m_Localized = "Mariette Recruitment (00500). Line [20]. Nowa insists on finding Mariette's charm, eventhough she's just said she'll give up on finding it. Speaker says agrees with Nowa "that's right", volunteers to help too "okay, I'll help", comments that Nowa is always doing stuff like this, and so on.
+     1 string m_Localized = "Mariette Recruitment Scenario 00500. Line [20]. Nowa insists on finding Mariette's charm, eventhough she's just said she'll give up on finding it. Speaker says agrees with Nowa "that's right", volunteers to help too "okay, I'll help", comments that Nowa is always doing stuff like this, and so on.
 	 
 	 ANOTHER LINE REFERENCES THIS ONE TOO.
 	 
@@ -1154,7 +1154,7 @@
    [141]
     0 TableEntryData data
      0 SInt64 m_Id = 3967078423
-     1 string m_Localized = "Iugo (00610) Recruitment, line [18]. Chimes in to affirms Nowa's character to Iugo."
+     1 string m_Localized = "Iugo (00610) Recruitment Scenario, line [18]. Chimes in to affirms Nowa's character to Iugo."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
