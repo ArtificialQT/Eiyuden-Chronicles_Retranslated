@@ -1078,7 +1078,7 @@
    [132]
     0 TableEntryData data
      0 SInt64 m_Id = 3077885977
-     1 string m_Localized = "......I'm sure you must be very strong."
+     1 string m_Localized = "...She must be quite skilled, I imagine."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1086,7 +1086,7 @@
    [133]
     0 TableEntryData data
      0 SInt64 m_Id = 3077885978
-     1 string m_Localized = "Yes, why don't you ask Mr. Kurtz?"
+     1 string m_Localized = "Indeed. Perhaps we ought to consult with Mister Kurtz about this?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
