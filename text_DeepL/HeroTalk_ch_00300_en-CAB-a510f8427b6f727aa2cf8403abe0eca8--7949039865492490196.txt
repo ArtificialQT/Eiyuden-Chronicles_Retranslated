@@ -1078,7 +1078,7 @@
    [132]
     0 TableEntryData data
      0 SInt64 m_Id = 2973028380
-     1 string m_Localized = "You're a strange one. ......"
+     1 string m_Localized = "She's an unusual one, huh?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1086,7 +1086,7 @@
    [133]
     0 TableEntryData data
      0 SInt64 m_Id = 2973028381
-     1 string m_Localized = "I think you should ask Kurtz-san about cooking, don't you?"
+     1 string m_Localized = "If this is about cooking, maybe we should ask Mister Kurtz about it?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
