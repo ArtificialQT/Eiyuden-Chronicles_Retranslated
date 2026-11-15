@@ -1,0 +1,754 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "Scenario_ch_00600_01_en"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "en"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 2
+  0 SInt64 m_PathID = 2596472034052931562
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (91 items)
+   0 int size = 91
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3321155584
+     1 string m_Localized = "*Sigh*... not here, either. How far must I venture to partake of that flavor once more?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544192
+     1 string m_Localized = "Umm..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544193
+     1 string m_Localized = "Ah, my apologies. You caught me musing aloud to myself."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544194
+     1 string m_Localized = "Allow me to offer a proper greeting, traveler.\nGood day to you. I am but a humble fox, drifting along through her memories."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544195
+     1 string m_Localized = "I’m Nowa. Is there something troubling you, Miss Fox?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544196
+     1 string m_Localized = "Troubling me...? Hmmm, this must be the whims of fate.\nThe truth is, I am deeply troubled!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544197
+     1 string m_Localized = "It just so happens that I am in the midst of a personal journey, wherein I endeavor to unlock my potential in the culinary arts, as part of my bridal training."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544198
+     1 string m_Localized = "Huh?? You’re a bride!?\nBut isn't it rather dangerous for a woman to be traveling alone?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544199
+     1 string m_Localized = "Oh, no no. I have yet to meet my destined husband.\nAnd as for the danger, you need not worry. You'll find I am quite capable with my spear."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544200
+     1 string m_Localized = "(Judging From the air about her, she's probably telling the truth.)"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544201
+     1 string m_Localized = "However, as proud as I am of my aptitude in martial-arts, I am ashamed to admit that I am sorely lacking in every field besides spear combat..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544202
+     1 string m_Localized = "When it came time to prepare me for marriage, my dear mother has endeavored to impart all of her knowledge to me. But alas, my skill in the kitchen has still been found wanting."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544203
+     1 string m_Localized = "“Whatever are these things called “<i>kitchen knives</i>”?”, I thought.\nSo I turned to my prized spear to cut the ingredients... And lo, the cutting board was sundered in twain."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544204
+     1 string m_Localized = "Rather than simmer gently, I thought to save time by stoking the fires to glorious peaks of flame...\nBefore I knew it, the ingredients had turned to charcoal."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544205
+     1 string m_Localized = "Even my attempts at the traditional miso soup would produce a mysterious bright red concoction. As for deserts, I produced an indescribable jumble of rainbow-coloured masses."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544206
+     1 string m_Localized = "“Found wanting” sounds like a bit of an understatement..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544207
+     1 string m_Localized = "Perhaps I'd finally pushed my mother to her wit’s end, for she showed me the door and said, “Go learn the basics of cooking”."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544208
+     1 string m_Localized = "And thus, this humble fox was was cast into the wild."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [18]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3329544209
+     1 string m_Localized = "So, basically, you want to learn how to cook?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738496
+     1 string m_Localized = "... Not quite. I suspect the root of my troubles stems deeper.\nAt present, I am searching for something essential to unlock the culinary seal within me."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [20]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738497
+     1 string m_Localized = "What's that?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [21]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738498
+     1 string m_Localized = "I don't quite know yet..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [22]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738499
+     1 string m_Localized = "I'd thought that, perhaps, tracking down a particular dish I ate when I was little would provide the inspiration I so sorely need..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [23]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738500
+     1 string m_Localized = "I've travelled through many distant lands in search of it, but my memories of it have become shrouded in the mists of time. I can't even recall its name..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [24]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738501
+     1 string m_Localized = "If I were to describe it..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [25]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738502
+     1 string m_Localized = "It contained a variety of vegetables, with an aroma so bright that even one bite lifted the spirits.\nOh, right... and it had notes of fish, despite not containing any."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [26]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738503
+     1 string m_Localized = "Does this ring any bells, Nowa?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [27]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738504
+     1 string m_Localized = "I don’t know much about cooking myself. Oh! But I bet Kurtz could help..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [28]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738505
+     1 string m_Localized = "I’ll look into it."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [29]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738506
+     1 string m_Localized = "Oh, thank you. I shall await you here, then."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [30]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738507
+     1 string m_Localized = "I don’t know much about cooking myself. Could I even help with this..?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [31]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738508
+     1 string m_Localized = "I’ll look into it."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [32]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738509
+     1 string m_Localized = "Oh, thank you. I shall await you here, then."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [33]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738510
+     1 string m_Localized = "Good day, Nowa. Have you had any epiphanies regarding that dish I described to you?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [34]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738511
+     1 string m_Localized = "I’m looking into it."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [35]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738512
+     1 string m_Localized = "Hey, hey, since this is about cooking, why don't we ask Kurtz about it?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [36]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738513
+     1 string m_Localized = "Oh right, Kurtz. Gimme a minute."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [37]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738514
+     1 string m_Localized = "Oh, thank you. I shall await you here, then."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [38]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738515
+     1 string m_Localized = "Kurtz, could I call on your expertise for a sec?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [39]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738516
+     1 string m_Localized = "Something the matter, Nowa?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [40]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738517
+     1 string m_Localized = "I’m looking for a certain dish..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [41]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738518
+     1 string m_Localized = "It’s got lots of veggies in it, and it’s aroma is so pleasent that eating it cheers you up...\nAnd, it’s got a fishy flavour, even though it doesn’t have any fish in it."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [42]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738519
+     1 string m_Localized = "And that's how the dish was described... Ring any bells?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [43]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738520
+     1 string m_Localized = "Hmm... placing an order the moment you arrive, huh?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [44]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738521
+     1 string m_Localized = "Oh, it’s not for me. It’s for this person I met who ate it when she was little and now she can’t remember and it's been troubling her."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [45]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738522
+     1 string m_Localized = "Ah. Always going out of your way for someone, as usual. But since this is about cooking, you came to the right man."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [46]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738523
+     1 string m_Localized = "So you know what it is?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [47]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738524
+     1 string m_Localized = "Nope, no idea. But, coming across a dish I've never heard of drives me up the wall. So I’m going to find out."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [48]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738525
+     1 string m_Localized = "Sorry for the wait. The dish you're looking for is a bygone culinary favorite called “Vegetable Milk Soup.”"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [49]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738526
+     1 string m_Localized = "Many different chefs have added their own touches over time; changing the ingredients, preperation style, even it's name. But it used to be very popular."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [50]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738527
+     1 string m_Localized = "Stay put."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [51]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738528
+     1 string m_Localized = "I give you, “Vegetable Milk Soup.” <i>Probably</i> the taste your friend craves from her childhood."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [52]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738529
+     1 string m_Localized = "Whether I’ve successfully captured it or not has yet to be seen, but I poured my heart and soul into it. Deliver it to them as soon as possible, while it's still hot."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [53]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738530
+     1 string m_Localized = "Sorry for the wait. The dish you're looking for is a bygone culinary favorite called “Vegetable Milk Soup.”"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [54]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738531
+     1 string m_Localized = "Many different chefs have added their own touches over time; changing the ingredients, preperation style, even it's name. But it used to be very popular."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [55]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738532
+     1 string m_Localized = "Nowa"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [56]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738533
+     1 string m_Localized = "So all we have to do is make this and—"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [57]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738534
+     1 string m_Localized = "Nope. That won’t be possible."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [58]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738535
+     1 string m_Localized = "To make vegetable milk soup, I’ll need the recipe.\nThink you can track that down?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [59]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738536
+     1 string m_Localized = "Nope. That won’t be possible."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [60]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738537
+     1 string m_Localized = "To prepare vegetable milk soup, I’ll need better facilities. Think you can make that happen?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [61]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738538
+     1 string m_Localized = "Right. I'll give it a shot."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [62]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738539
+     1 string m_Localized = "Alright. I'll be waiting."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [63]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738540
+     1 string m_Localized = "Think we could make that vegetable milk soup now?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [64]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738541
+     1 string m_Localized = "Yup. Stay put. I'll prepare the perfect dish, straight out of their memories."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [65]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738542
+     1 string m_Localized = "I give you, “Vegetable Milk Soup.” <i>Probably</i> the taste your friend craves from their childhood."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [66]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738543
+     1 string m_Localized = "Whether I’ve successfully captured it or not has yet to be seen, but I poured my heart and soul into it. Deliver it to them as soon as possible, while it's still hot."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [67]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738544
+     1 string m_Localized = "Thanks!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [68]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738545
+     1 string m_Localized = "Is this it?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [69]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738546
+     1 string m_Localized = "Oh my, thank you. I'll just have a look."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [70]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3333738547
+     1 string m_Localized = "Hmmmm..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [71]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3337932800
+     1 string m_Localized = "Could this truly be... Nowa, I know this is rather unbecoming of me, but might I have just a taste?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [72]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3337932801
+     1 string m_Localized = "S-sure! Please, help yourself."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [73]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3337932802
+     1 string m_Localized = "Then, pardon me.\n......"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [74]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3337932803
+     1 string m_Localized = "......"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [75]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3337932804
+     1 string m_Localized = "Aaaah...! There's no mistaking it!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [76]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3337932805
+     1 string m_Localized = "The soup is so gentle; neither too sweet nor too salty. And the aroma carries up the nose and laps at the mind with visions of seafood."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [77]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3337932806
+     1 string m_Localized = "It's the taste from my memories! I could cry!\nThis is the dish! Nowa, what's it called?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [78]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3337932807
+     1 string m_Localized = "It’s... vegetable milk soup."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [79]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3337932808
+     1 string m_Localized = "Oh my, I never would've guessed it had a name like that. Hehehe..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [80]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3337932809
+     1 string m_Localized = "Ha ha ha ha!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [81]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3337932810
+     1 string m_Localized = "Ah, my apologies. That was unbecoming of me."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [82]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3337932811
+     1 string m_Localized = "No no, don't worry about it.\nOne of my comrades prepared that dish for us."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [83]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3337932812
+     1 string m_Localized = "And he didn't just make it for my sake, he made it for everyone to enjoy... I guess that's what he wanted."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [84]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3337932813
+     1 string m_Localized = "How would I describe him... He's the kinda guy who always pours his heart and soul into his cooking."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [85]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3337932814
+     1 string m_Localized = "So seeing you happily enjoying the food makes me happy too."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [86]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3337932815
+     1 string m_Localized = "To pour your heart and soul into the meal you prepare for another... I see, so that's how it needs to be."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [87]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3337932816
+     1 string m_Localized = "??"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [88]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3337932817
+     1 string m_Localized = "You have my thanks, Nowa. At long last, I've come to realize what I was missing.\nAnd now..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [89]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3337932818
+     1 string m_Localized = "Henceforth, I, Foxiel, shall repay you for the kindness that was this meal, many times over!"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [90]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3337932819
+     1 string m_Localized = "I will demonstrate my mastery of the spear, on your word!\n... Although, I still have much to learn of the culinary arts, as part of my bridal training."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 0
