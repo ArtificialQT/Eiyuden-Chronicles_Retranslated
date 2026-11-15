@@ -1078,7 +1078,7 @@
    [132]
     0 TableEntryData data
      0 SInt64 m_Id = 2910113857
-     1 string m_Localized = "...... She's an odd woman."
+     1 string m_Localized = "... What a strange woman."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1086,7 +1086,7 @@
    [133]
     0 TableEntryData data
      0 SInt64 m_Id = 2910113858
-     1 string m_Localized = "Why don't you ask a cook about cooking?"
+     1 string m_Localized = "Go consult a chef if you have questions about cooking."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
