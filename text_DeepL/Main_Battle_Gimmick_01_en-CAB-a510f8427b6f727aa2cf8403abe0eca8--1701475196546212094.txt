@@ -1718,7 +1718,7 @@
    [212]
     0 TableEntryData data
      0 SInt64 m_Id = 3522482191
-     1 string m_Localized = "Hmmm... this is the place after all. Well, there's still a seal. That's why I'm so good."
+     1 string m_Localized = "Mm-hmm, mm-hmm. This is the place, all right. Oh, and the seal's still holding.\nAs expected of <i>ME</i>! Such brilliance!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1726,7 +1726,7 @@
    [213]
     0 TableEntryData data
      0 SInt64 m_Id = 3522482192
-     1 string m_Localized = "What do you mean?"
+     1 string m_Localized = "Hmm? What do you mean?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1734,7 +1734,7 @@
    [214]
     0 TableEntryData data
      0 SInt64 m_Id = 3522482193
-     1 string m_Localized = "Hey, I'm talking about this."
+     1 string m_Localized = "Oh, don't mind me. Nothing to worry about."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1742,7 +1742,7 @@
    [215]
     0 TableEntryData data
      0 SInt64 m_Id = 3522482194
-     1 string m_Localized = "Come on, let's go."
+     1 string m_Localized = "Right! Onward!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1750,7 +1750,7 @@
    [216]
     0 TableEntryData data
      0 SInt64 m_Id = 3522482195
-     1 string m_Localized = "Is this the ...... squid ......?"
+     1 string m_Localized = "I-is this a... <i>squid</i>??"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1758,7 +1758,7 @@
    [217]
     0 TableEntryData data
      0 SInt64 m_Id = 3522482196
-     1 string m_Localized = "Be on your guard, Noah."
+     1 string m_Localized = "Keep your guard up, Nowa."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1766,7 +1766,7 @@
    [218]
     0 TableEntryData data
      0 SInt64 m_Id = 3522482197
-     1 string m_Localized = "Perhaps he's swallowing the wax lens I blew ...... up, or perhaps he shattered in an accident."
+     1 string m_Localized = "It probably swallowed the shards of the Raw Lens I blew up-...\nUhh, I mean, that got <i>accidentally</i> blown up in the experiment!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1774,7 +1774,7 @@
    [219]
     0 TableEntryData data
      0 SInt64 m_Id = 3522482198
-     1 string m_Localized = "What ...... blow ...... up?"
+     1 string m_Localized = "You blew <i>WHAT</i> up?!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1782,7 +1782,7 @@
    [220]
     0 TableEntryData data
      0 SInt64 m_Id = 3522482199
-     1 string m_Localized = "Look, don't let your guard down! We need to do something about this water first."
+     1 string m_Localized = "Pay attention! Keep your guard up!\nWe need to get a handle of all this water first!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1790,7 +1790,7 @@
    [221]
     0 TableEntryData data
      0 SInt64 m_Id = 3522482200
-     1 string m_Localized = "Look at that sluice. If we open it, we can drain the water out."
+     1 string m_Localized = "See that sluice gate over there? We can drain the water away if we open it."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1798,7 +1798,7 @@
    [222]
     0 TableEntryData data
      0 SInt64 m_Id = 3522482201
-     1 string m_Localized = "What are you doing? It's a sluice gate! Open the sluice!"
+     1 string m_Localized = "What are you doing?!\nThe sluice gate! We need to open the sluice gate!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1806,7 +1806,7 @@
    [223]
     0 TableEntryData data
      0 SInt64 m_Id = 3522482202
-     1 string m_Localized = "That thing can't do much damage in the water."
+     1 string m_Localized = "We can't hurt that accursed beast while it's in deep water!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1814,7 +1814,7 @@
    [224]
     0 TableEntryData data
      0 SInt64 m_Id = 3522482203
-     1 string m_Localized = "All right, it's drained."
+     1 string m_Localized = "Alright! The water's drained away!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1822,7 +1822,7 @@
    [225]
     0 TableEntryData data
      0 SInt64 m_Id = 3526676480
-     1 string m_Localized = "You did good."
+     1 string m_Localized = "Good job."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1830,7 +1830,7 @@
    [226]
     0 TableEntryData data
      0 SInt64 m_Id = 3526676481
-     1 string m_Localized = "I see the magic cannon. I see you still have a few of them left. With this many men, I'm sure we'll be able to take advantage this time."
+     1 string m_Localized = "Heh-heh-heh! And there's the <i>Rune Cannon</i>!\nIt looks like it's still functional. We should be able to make use of it with so many of us gathered here."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1838,7 +1838,7 @@
    [227]
     0 TableEntryData data
      0 SInt64 m_Id = 3526676482
-     1 string m_Localized = "Use it to take them down."
+     1 string m_Localized = "Use it to <i>SLAY THE BEAST</i>!!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
